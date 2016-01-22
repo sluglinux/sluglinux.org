@@ -16,8 +16,8 @@ RELATIVE_URLS = (True)
 STATIC_PATHS = (['images', 'extra/favicon.ico', 'extra/robots.txt'])
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
-#THEME = './themes/bootstrap'
-THEME = './themes/new-bootstrap2'
+#THEME = './themes/new-bootstrap2'
+THEME = './themes/Responsive-Pelican'
 MENUITEMS = (
         ('meetings', '/pages/meetings.html'),
         ('contact', '/pages/contact.html'),
