@@ -1,14 +1,9 @@
 sluglinux.org
 =============
 
-Set up locally
---------------
+Homepage for sluglinux.org
 
-  * clone the repo. Go in the dir
-  * virtualenv env
-  * source env/bin/activate
-  * pip install pelican
-  * pip install Markdown
-  * ./develop_server start
-  * visit localhost:8000
-  * ./develop_server stop
+This page uses [Pelican](http://blog.getpelican.com/) to generate a static website.
+To learn how to use Pelican, visit their [documentation](http://docs.getpelican.com/en/3.6.3/).
+
+To learn how to contribute to this site, please see [CONTRIBUTEING.md](https://gitlab.mooncitylabs.org/slug/sluglinux.org/blob/master/CONTRIBUTING.md).
