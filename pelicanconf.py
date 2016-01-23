@@ -32,7 +32,7 @@ MENUITEMS = [
         ('chronological', '/archives.html'),
         ]),
     ('social', [
-        ('irc', 'http://url-to-irc-page'),
+        ('irc', '/pages/IRC.html'),
         ('mailing list', 'http://groups.google.com/group/sluglinux'),
         ('twitter', 'https://twitter.com/sluglinux'),
         ]),
