@@ -1,5 +1,3 @@
-Clone repo and develop site
-
 Clone the repo. Enter directory.
   * $ git clone git@gitlab.mooncitylabs.org:slug/sluglinux.org.git
   * $ cd sluglinux.org
