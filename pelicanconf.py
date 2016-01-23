@@ -10,7 +10,7 @@ AUTHORS = {
 SITENAME = u'Siouxland Linux Users Group'
 SITEURL = 'http://sluglinux.org'
 DELETE_OUTPUT_DIRECTORY = (True)
-INDEX_SAVE_AS = 'blog_index.html'
+INDEX_SAVE_AS = 'news.html'
 
 PATH = 'content'
 
@@ -26,7 +26,7 @@ DISPLAY_PAGES_ON_MENU = False
 THEME = './themes/pelican-chameleon'
 MENUITEMS = [
     ('home', '/'),
-    ('news', '/blog_index.html'),
+    ('news', '/news.html'),
     ('meetings', '/pages/meetings.html'),
     ('archives', [
         ('tags', '/tags.html'),
