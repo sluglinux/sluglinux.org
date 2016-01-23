@@ -2,7 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'stevenix'
+#AUTHOR = u'stevenix'
+AUTHORS = {
+    u'stevenix': '/about.html'
+}
+#AUTHOR_URL = 'author/{slug}.html'
 SITENAME = u'Siouxland Linux Users Group'
 SITEURL = 'http://sluglinux.org'
 DELETE_OUTPUT_DIRECTORY = (True)
@@ -14,20 +18,37 @@ DEFAULT_DATE_FORMAT = '%b %d %Y'
 
 RELATIVE_URLS = (True)
 STATIC_PATHS = (['images', 'extra/favicon.ico', 'extra/robots.txt'])
+FAVICON = u'/extra/favicon.ico'
+FAVICON_TYPE = u'png'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 #THEME = './themes/new-bootstrap2'
-THEME = './themes/Responsive-Pelican'
-MENUITEMS = (
-        ('meetings', '/pages/meetings.html'),
-        ('contact', '/pages/contact.html'),
-)
+THEME = './themes/pelican-chameleon'
+#MENUITEMS = (
+#        ('meetings', '/pages/meetings.html'),
+#        ('contact', '/pages/contact.html'),
+#)
+MENUITEMS = [
+    ('home', '/'),
+    ('meetings', '/pages/meetings.html'),
+    ('archives', [
+        ('Tags', '/tags.html'),
+        ('Categories', '/categories.html'),
+        ('Chronological', '/archives.html'),
+        ]),
+    ('social', [
+        ('IRC', 'http://url-to-irc-page'),
+        ('Mailing list', 'http://groups.google.com/group/sluglinux'),
+        ('Twitter', 'https://twitter.com/sluglinux'),
+        ]),
+    ('Search', '002787820322374053553:rxnx0aoei9s'),
+    ]
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None

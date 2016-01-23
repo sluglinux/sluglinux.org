@@ -1,6 +1,7 @@
 title: Home
 URL:
 save_as: index.html
+Authors: stevenix
 
 Welcome to the Siouxland Linux Users Group website!
 
