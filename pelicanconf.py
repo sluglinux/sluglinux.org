@@ -28,8 +28,8 @@ MENUITEMS = [
     ('meetings', '/pages/meetings.html'),
     ('archives', [
         ('tags', '/tags.html'),
-        ('categories', '/categories.html'),
-        ('chronological', '/archives.html'),
+        ('news', '/category/news.html'),
+        ('minutes', '/category/minutes.html'),
         ]),
     ('feeds', [
         ('all', '/feeds/all.atom.xml'),
