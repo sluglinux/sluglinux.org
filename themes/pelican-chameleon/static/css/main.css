@@ -1,3 +1,51 @@
+a {
+    color: #519A4E;
+}
+a:hover, a:focus {
+    color: #287324;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #519A4E;
+    border-color: #519A4E;
+}
+
+.panel-primary {
+    border-color: #519A4E;
+}
+
+.label-primary {
+    background-color: #519A4E;
+}
+
+.label-primary[href]:hover, .label-primary[href]:focus {
+    background-color: #287324;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #519A4E;
+    border-color: #519A4E;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #519A4E;
+    border-color: #519A4E;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #519A4E;
+    border-color: #519A4E;
+}
+
+.nav .caret {
+    border-top-color: #519A4E;
+    border-bottom-color: #519A4E;
+}
+
+
 /*sticky footer*/
 
 html,
