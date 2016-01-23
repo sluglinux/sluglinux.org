@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 #AUTHOR = u'stevenix'
 AUTHORS = {
-    u'stevenix': '/about.html'
+        u'stevenix': 'https://mooncitylabs.org'
 }
 #AUTHOR_URL = 'author/{slug}.html'
 SITENAME = u'Siouxland Linux Users Group'
@@ -31,6 +31,11 @@ MENUITEMS = [
         ('categories', '/categories.html'),
         ('chronological', '/archives.html'),
         ]),
+    ('feeds', [
+        ('all', '/feeds/all.atom.xml'),
+        ('minutes', '/feeds/minutes.atom.xml'),
+        ('news', '/feeds/news.atom.xml'),
+        ]),
     ('social', [
         ('irc', '/pages/IRC.html'),
         ('mailing list', 'http://groups.google.com/group/sluglinux'),
@@ -48,12 +53,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 TAGS_SAVE_AS = 'tags.html'
-
-# Blogroll
-#LINKS =  (
-#    ('Mailing List', 'https://groups.google.com/forum/#!forum/sluglinux'),
-#    ('Wiki', 'http://www.sluglinux.org/wiki/Main_Page'),
-#)
 
 # Social widget
 #SOCIAL = (
