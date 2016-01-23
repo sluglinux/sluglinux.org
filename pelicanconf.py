@@ -22,24 +22,19 @@ FAVICON = u'/extra/favicon.ico'
 FAVICON_TYPE = u'png'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
-#THEME = './themes/new-bootstrap2'
 THEME = './themes/pelican-chameleon'
-#MENUITEMS = (
-#        ('meetings', '/pages/meetings.html'),
-#        ('contact', '/pages/contact.html'),
-#)
 MENUITEMS = [
     ('home', '/'),
     ('meetings', '/pages/meetings.html'),
     ('archives', [
-        ('Tags', '/tags.html'),
-        ('Categories', '/categories.html'),
-        ('Chronological', '/archives.html'),
+        ('tags', '/tags.html'),
+        ('categories', '/categories.html'),
+        ('chronological', '/archives.html'),
         ]),
     ('social', [
-        ('IRC', 'http://url-to-irc-page'),
-        ('Mailing list', 'http://groups.google.com/group/sluglinux'),
-        ('Twitter', 'https://twitter.com/sluglinux'),
+        ('irc', 'http://url-to-irc-page'),
+        ('mailing list', 'http://groups.google.com/group/sluglinux'),
+        ('twitter', 'https://twitter.com/sluglinux'),
         ]),
     ('Search', '002787820322374053553:rxnx0aoei9s'),
     ]
