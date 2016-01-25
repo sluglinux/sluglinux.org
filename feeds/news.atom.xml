@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/news.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2014-12-18T00:00:00-06:00</updated><entry><title>Informal Get-Together 2014-12-22</title><link href="http://sluglinux.org/news/2014-12-18.html" rel="alternate"></link><updated>2014-12-18T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-18:news/2014-12-18.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We have an informal thing going on Monday, December 22. Come down to TommyJack's, drink, hang out, spend too much money on their awesome jukebox, meet new people (maybe), meet old people (probably), and talk about computers. 
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="slug"></category><category term="meeting"></category></entry><entry><title>Designing with Blender</title><link href="http://sluglinux.org/news/2014-05-19.html" rel="alternate"></link><updated>2014-05-19T00:00:00-05:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-05-19:news/2014-05-19.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-final.png" /&gt;&lt;/p&gt;
+&lt;p&gt;In this tutorial, some techniques for manipulating the size and location of objects will be demonstrated in the course of building a bookshelf.  It requires no previous knowledge of blender.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-factorySettings.png" /&gt;&lt;/p&gt;
+&lt;p&gt;For the initial setup, blender is configured just like it would be if had been just installed.  If any settings have been changed, just go to &lt;strong&gt;"file"&amp;gt;"Load Factory Settings"&lt;/strong&gt;.  This will bring blender back from the brink even if the startup file gets overwritten with garbage.&lt;/p&gt;
+&lt;p&gt;As for useful keyboard shortcuts to know before beginning, &lt;strong&gt;spacebar&lt;/strong&gt; and &lt;strong&gt;control-z&lt;/strong&gt; make life much easier.  If any particular menu item or button can't be found, press the &lt;strong&gt;spacebar&lt;/strong&gt;.  This brings up a context-sensitive search window that will display possible operations.  For example, if "snap cursor to selected" can't be found or the keyboard shortcut can't be remembered, type "cursor" into the search field and it can easily be found it the resulting list.  &lt;strong&gt;Control-z&lt;/strong&gt; is there to undo anything that is done in the course of manipulating the scene.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-imperial.png" /&gt;&lt;/p&gt;
+&lt;p&gt;The first thing to do is to change the units blender uses to Imperial since the tutorial uses inches for all the lengths.  Sorry rest-of-the-world.  The properties window is on the lower right hand side of the screen.  It has a number of icons across the top of it. The first one is used to select what kind of window it is.  The other icons are used to select which subset of properties are being displayed, called a context. Click the third icon from the left; it has 3 shapes on it.  This is the scene context.  Down in the units section, change the selection from "None" to "Imperial".&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-dimensions.png" /&gt;&lt;/p&gt;
+&lt;p&gt;In the 3D window, there is a plus sign in the upper right corner. Clicking it will open the properties panel.  Notice the difference between the properties panel, which was just opened, and the properties window, which is where the unit type was selected. Pressing &lt;strong&gt;n&lt;/strong&gt; in the 3D window will also open and close the panel.&lt;/p&gt;
+&lt;p&gt;The scene should already have a cube in it and it should already be selected.  If it isn't, select it using the right mouse button.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-firstPiece.png" /&gt;&lt;/p&gt;
+&lt;p&gt;In the properties panel, there is a subset titled "Transform".  The properties at the bottom of the set describe the width, length, and height of the object.  When they are manipulated, they affect the scale of the object to match the dimensions.  Math can be performed within these fields.  Type 4'+(1/8)" into the x dimension.  This becomes 4.01' once enter is pressed.  Change the y dimension to 0.75", and the z dimension to 1".&lt;/p&gt;
+&lt;p&gt;Scroll the mouse wheel or control-middle-mouse-drag to zoom in on the piece.  Middle-mouse-drag will orbit around it.  &lt;strong&gt;Shift-b&lt;/strong&gt; can be used to draw a rectangle around whatever needs to be viewed and the view will zoom in accordingly.&lt;/p&gt;
+&lt;p&gt;The default view is in perspective mode, recognized by parallel lines converging in the distance.  Orthographic mode, with parallel lines staying parallel, can be entered through the view menu of the 3D window or by pressing &lt;strong&gt;5&lt;/strong&gt; on the numpad.&lt;/p&gt;
+&lt;p&gt;Note the buttons on the numpad are treated differently than similar buttons elsewhere on the keyboard.  For example, &lt;strong&gt;3&lt;/strong&gt; on the numpad will move the view to look at the side of the scene, where &lt;strong&gt;3&lt;/strong&gt; at the top of the keyboard will move to the third layer of the scene; the layers being visualized by the 2 5x2 grids at the bottom of the 3D window.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-addMenu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shift-a&lt;/strong&gt; will open the add menu.  Add a new cube to the scene by selecting "mesh"&amp;gt;"cube".  This menu can also be accessed through the menubar at the top of the screen by clicking on "Add".&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-viewportShading.png" /&gt;&lt;/p&gt;
+&lt;p&gt;The screen is looking a little cluttered with the pieces overlapping one another.  Pressing &lt;strong&gt;z&lt;/strong&gt; will change the viewport shading mode to wireframe.  Pressing it again will change it back to shaded.  This can also be achieved with the viewport shading menu located at the bottom of the 3D window.&lt;/p&gt;
+&lt;p&gt;Press &lt;strong&gt;tab&lt;/strong&gt; while the new piece is selected to enter edit mode.  Now the mesh of the object can be manipulated.  This mode can also be selected using the menu at the bottom of the 3D window.  &lt;strong&gt;Control-tab&lt;/strong&gt; will bring up the Mesh Select Mode.  Change the mode to "Edge". Select the front top edge of the object.  &lt;strong&gt;Shift-s&lt;/strong&gt; brings up the snap menu.  It is also found at "Mesh"&amp;gt;"Snap".  Select "Cursor to Selected".  Press &lt;strong&gt;tab&lt;/strong&gt; to go back into object mode.  Press &lt;strong&gt;control-alt-shift-c&lt;/strong&gt; to bring up the Set Origin menu.  Select "Origin to Cursor".  This can also be done through "Object"&amp;gt;"Transform"&amp;gt;"Origin to Cursor".&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-linedUpPieces.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Select the first piece and go into edit mode.  Select the top back edge.  Snap the cursor to the selected edge.  &lt;strong&gt;Tab&lt;/strong&gt; back into object mode and select the second piece.  Snap it to the 3D cursor using the snap menu.  Change its dimensions to x= 4', y= 1'-(3/4)", and z= 0.5".&lt;/p&gt;
+&lt;p&gt;If the view needs to be re-centered, select one of the pieces with the right mouse button, then select the other piece with shift-right-mouse-button.  This is how multiple pieces are selected.  Center the view on the selected objects with "View"&amp;gt;"Align View"&amp;gt;"View Selected" or with &lt;strong&gt;.&lt;/strong&gt; on the numpad.&lt;/p&gt;
+&lt;p&gt;Select the second piece and press &lt;strong&gt;shift-d&lt;/strong&gt; to duplicate it.  This will make a copy of the piece and immediately go into grab mode.  In this mode, the piece will be moved around on a plane perpendicular to the view unless it has been locked to and axis.  Press &lt;strong&gt;z&lt;/strong&gt; to lock the movement to the z axis.  Move it below the other pieces.&lt;/p&gt;
+&lt;p&gt;Move the origin to the right top edge of the newest piece.  Change it's x dimension to 0.5" and the z dimension to 4'-(0.5)".  Line it up with the bottom right edge of the second piece.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-pivotPoint.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Select the first piece and &lt;strong&gt;tab&lt;/strong&gt; into edit mode.  Select the front right edge and snap the cursor to it.  &lt;strong&gt;Tab&lt;/strong&gt; out of edit mode and select the newest piece.  &lt;strong&gt;Tab&lt;/strong&gt; into edit mode, &lt;strong&gt;control-tab&lt;/strong&gt; and select "Face", then select the front face.&lt;/p&gt;
+&lt;p&gt;With the settings as they are now, transformation operations are done relative to the center of whatever is selected.  This relative point is called the pivot point.  Press &lt;strong&gt;s&lt;/strong&gt; and move the mouse around a little.  The shape of the face and it's center remain the same but the size changes.  Pressing &lt;strong&gt;x&lt;/strong&gt;,&lt;strong&gt;y&lt;/strong&gt;, or &lt;strong&gt;z&lt;/strong&gt; will limit this transformation to the particular axis.  Pressing &lt;strong&gt;shift-x&lt;/strong&gt;, &lt;strong&gt;shift-y&lt;/strong&gt;, or &lt;strong&gt;shift-z&lt;/strong&gt; will prevent the transformation from happening on that axis.  Right mouse click to cancel the transformation as the settings are not ready to correctly model the piece.&lt;/p&gt;
+&lt;p&gt;The pivot point needs to be changed to the cursor.  This is done by pressing &lt;strong&gt;.&lt;/strong&gt; on the keyboard or by using the "Pivot Point" menu located next to the "Viewport Shading" menu described earlier.&lt;/p&gt;
+&lt;p&gt;Press &lt;strong&gt;s&lt;/strong&gt; and move the mouse around.  Now the way the face is scaled is completely different.  Press &lt;strong&gt;y&lt;/strong&gt; to lock the transformation to the y axis.  As the mouse gets farther from the pivot point, the face moves farther from it as well.  When the mouse gets closer, the face lines up with the pivot point.  Press &lt;strong&gt;0&lt;/strong&gt; then &lt;strong&gt;enter&lt;/strong&gt; and the face will be perfectly lined up with the cursor.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-rawBoolean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;The problem now is the new piece and the first piece are now intersecting one another.  The first piece can be subtracted from the new piece by using a boolean modifier.  In the properties window, click the wrench icon at the top.  This displays the modifier context.  Click the "Add Modifier" button and select boolean.  Under object, select "Cube", which is the name of the first piece created.  Change the operation to "Difference". Finally, click the "Apply" button.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-finalBoolean.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Check to make sure the operation didn't mangle the piece.  With the newest piece still selected, press &lt;strong&gt;control-i&lt;/strong&gt; to invert the selection.  Pressing &lt;strong&gt;h&lt;/strong&gt; will hide all selected objects.  Now only the newest piece should be visible.  Press &lt;strong&gt;z&lt;/strong&gt; if viewport shading is still set to wireframe.  Make sure the piece doesn't have any weird faces where there shouldn't be.  If there are, some vertices may have to be removed.  &lt;strong&gt;X&lt;/strong&gt; can be used to remove them.  If a necessary face gets destroyed, it can be recreated by selecting the vertices that made it up, then pressing &lt;strong&gt;f&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Once the piece looks correct, &lt;strong&gt;tab&lt;/strong&gt; back into object mode.  Everything can be unhidden by pressing &lt;strong&gt;alt-h&lt;/strong&gt;.  Select the front piece and snap the cursor to it.  Select the newest piece and go into edit mode. Pressing &lt;strong&gt;a&lt;/strong&gt; with something selected with deselect everything. Pressing it again will select everything.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-mirroredSides.png" /&gt;&lt;/p&gt;
+&lt;p&gt;With everything selected and the pivot point still set to the cursor, duplicate the piece with &lt;strong&gt;shift-d&lt;/strong&gt;, press &lt;strong&gt;s&lt;/strong&gt; to scale it, press &lt;strong&gt;x&lt;/strong&gt; to lock the transformation to the x axis, then type -1, and finally &lt;strong&gt;enter&lt;/strong&gt;. This will make a mirrored copy of whatever is selected, centered where ever the pivot point is located.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-edgesSelected.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Select the back inner edges of each side piece with shift-right-mouse-click.  Duplicate the edges with &lt;strong&gt;shift-d&lt;/strong&gt;.  Moving the mouse around a little shows the new edges are not connected to the other pieces at all.  Right mouse click to cancel the transformation.  The duplication of the edges still occurred; all that was canceled was the transformation.  With the new edges still selected, press &lt;strong&gt;p&lt;/strong&gt; and select "Selection" to separate them into their own object.  &lt;strong&gt;Tab&lt;/strong&gt; into object mode.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-backFinished.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Placing the mouse cursor where the new edges where created and right clicking will bounce between selecting the new edges and the sides. Select the new edges and tab into edit mode.  Select everything by pressing &lt;strong&gt;a&lt;/strong&gt; and create a new face by pressing &lt;strong&gt;f&lt;/strong&gt;.  With the new face selected, press &lt;strong&gt;e&lt;/strong&gt; to begin extruding it.  Extruding is like the previous duplication process but the new face is still connected to the old face.  By doing this, an new cube is being created by hand. Just like the duplication process, right clicking will cancel the transformation of the new face but not the creation of it.  Cancel the translation.&lt;/p&gt;
+&lt;p&gt;In the properties panel, under the median values, are two buttons: global and local.  These refer to how the median values are interpreted.  The default is local.  If half an inch is subtracted from one of these values while local is selected, that half an inch measurement will be subjected to the scaling of that axis.  If the object is scaled along the y-axis 0.5, the half an inch transformation of the median will have a global effect of only a quarter of an inch.  For this operation to work, global should be selected.  Left click on the y value of the median and subtract 0.5" from the value already there, 11.625"-0.5".&lt;/p&gt;
+&lt;p&gt;Select the inner bottom edge of the back piece and snap the cursor to it.  Make a duplicate of the second piece created, the one that forms the top of the bookshelf.  Snap it to the cursor.  Press &lt;strong&gt;r&lt;/strong&gt; to begin rotating it.  Press &lt;strong&gt;x&lt;/strong&gt; to lock it to the x axis, then type 180, then &lt;strong&gt;enter&lt;/strong&gt; to flip it over.  Change its x dimension to 4'-1" and its y dimension to 1'-0.5".&lt;/p&gt;
+&lt;p&gt;Duplicate this bottom piece a couple times to make the individual shelves.  Using the techniques described, try to make the shelves all evenly spaced apart.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="http://sluglinux.org/news/Bookshelf-completedBookshelf.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Once all the pieces are created and in place, select them all and join them together with control-j.  Place the origin some place useful like the back bottom edge.  This makes it easy to place in a more complex scene like an apartment.  It could even be textured now but that is another tutorial.&lt;/p&gt;
+&lt;p&gt;shortcuts used:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  spacebar = search function
+  ctrl-z = undo
+  n = opens the properties panel
+  shift-b = zoom boarder
+  numpad = manipulates view
+  shift-a = add menu
+  z = switch between solid and wireframe viewport shading modes
+  tab = switch between object and edit mode
+  ctrl-tab = mesh select mode
+  shift-s = opens the snap menu
+  ctrl-alt-shift-c = set origin menu
+  .(numpad) = center view on selected
+  shift-d = duplicates whatever is selected
+  .(keyboard) = moves the pivot point to the 3D cursor
+  g = grab
+  s = scale
+  r = rotate
+  x(transformation) = locks transformation to the x axis
+  y(transformation) = locks transformation to the y axis
+  z(transformation) = locks transformation to the z axis
+  ctrl-i = invert selection
+  h = hide selection
+  x = removes whatever is selected
+  f = creates new vertices, edges, and faces
+  alt-h = un-hide hidden
+  a = select/deselect everything
+  p = separate selected vertices, edges, and faces from current object
+  f = extrude selected vertices, edges, or faces
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="blender"></category></entry><entry><title>New meeting and new location on June 20th 2013</title><link href="http://sluglinux.org/news/2013-05-31.html" rel="alternate"></link><updated>2013-05-31T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-05-31:news/2013-05-31.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The next meeting will be held at a new location, the Siouxland Libraries Main branch downtown Sioux Falls.&lt;/p&gt;
+&lt;p&gt;The idea is to have plenty of topics to discuss. If there is interest we can go over these topics in depth.&lt;/p&gt;
+&lt;p&gt;Some of the ideas that we have so far are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://xmonad.org/"&gt;xmonad tiling window manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;a href="http://synergy-foss.org/"&gt;synergy&lt;/a&gt; 3 computer, 4 monitor setup with keybindings.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gitlab.org/"&gt;gitlab&lt;/a&gt; A self hosted "github clone".&lt;/li&gt;
+&lt;li&gt;updating from Debian squeeze to &lt;a href="http://www.debian.org/releases/stable/"&gt;wheezy stable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Migrating from apache to &lt;a href="http://wiki.nginx.org/Main"&gt;nginx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;using &lt;a href="http://rdiff-backup.nongnu.org/"&gt;rdiff-backup&lt;/a&gt; for local and remote incremental backups.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tmux.sourceforge.net/"&gt;tmux&lt;/a&gt; and &lt;a href="http://www.gnu.org/software/screen/"&gt;screen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What we don't get a chance to cover during this meeting can be pushed to the next meeting. You can submit your ideas to the mailing list by sending an email to sluglinux@googlegroups.com. Please check out the meeting page for more information. &lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="slug"></category><category term="meetings"></category></entry><entry><title>DokotaCon recap</title><link href="http://sluglinux.org/news/2012-04-29.html" rel="alternate"></link><updated>2012-04-29T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-29:news/2012-04-29.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;In case you missed the 2012 &lt;a href="http://dakotacon.org/"&gt;DakotaCon&lt;/a&gt; I have put together some links. If you have anything to contribute please leave it in the comments or &lt;a href="mailto:phliver@gmail.com"&gt;email me&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There was quite a bit of activity on the &lt;a href="http://twitter.com/#!/search/dakotacon"&gt;#dakotacon&lt;/a&gt;. There are a few pictures that people published.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.sdpb.org/newsite/shows.aspx?MediaID=60666&amp;amp;Parmtype=RADIO&amp;amp;ParmAccessLevel=sdpb-all"&gt;Dr. Josh Pauli and DakotaCon presenter, Jared DeMott, discuss DakotaCon&lt;/a&gt; on &lt;a href="http://www.sdpb.org/"&gt;South Dakota Public Broadcasting&lt;/a&gt;. Skip to 22:45 for the dakotacon section.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Marc_Tobias"&gt;Marc Tobias&lt;/a&gt; was there for a little bit to talk about lock security. He gave away some copies of his book &lt;a href="http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&amp;amp;keywords=0975947923&amp;amp;tag=siolinusegro-20&amp;amp;index=aps&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325"&gt;OPEN IN THIRTY SECONDS: Cracking One of the Most Secure Locks in America&lt;/a&gt; and some CDs. He mentioned that he did a story with &lt;a href="http://www.keloland.com/"&gt;Keloland news&lt;/a&gt; Let me know if you find a link to the video.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;During Jon Mccoys speech he handed out a few copies of a disc that contained the software he demonstrated and his speeches. They are hosted on his site &lt;a href="http://www.digitalbodyguard.com/"&gt;digitalbodyguard.com&lt;/a&gt;. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Update:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keloland ran a &lt;a href="http://www.keloland.com/NewsDetail6162.cfm?Id=130946"&gt;story&lt;/a&gt; about DakotaCon. 
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="dakotacon"></category><category term="security"></category></entry></feed>

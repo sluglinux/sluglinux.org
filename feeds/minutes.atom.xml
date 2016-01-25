@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Siouxland Linux Users Group</title><link href="http://sluglinux.org/" rel="alternate"></link><link href="http://sluglinux.org/feeds/minutes.atom.xml" rel="self"></link><id>http://sluglinux.org/</id><updated>2014-12-22T00:00:00-06:00</updated><entry><title>Minutes 2014-12-22</title><link href="http://sluglinux.org/minutes/2014-12-22.html" rel="alternate"></link><updated>2014-12-22T00:00:00-06:00</updated><author><name>MrTuttle</name></author><id>tag:sluglinux.org,2014-12-22:minutes/2014-12-22.html</id><summary type="html">&lt;!---
+Summary:
+--&gt;
+
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://sftommyjacks.com/"&gt;TommyJack's Pub&lt;/a&gt;
+214 E. 12th St.
+Sioux Falls SD
+Date: Monday, December 22, 2014
+Time: 6:00 PM to whenever&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Drink beer (or whatever you like) and talk about computers.  So easy, even an alcoholic baby could do it.&lt;/li&gt;
+&lt;li&gt;There is no cost to attend the meeting or to join. New members are welcome!&lt;/li&gt;
+&lt;li&gt;Try not to spill any beer on your computer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Seven people were in attendance.&lt;/p&gt;
+&lt;p&gt;MrTuttle demonstrated &lt;a href="http://www.blender.org/"&gt;Blender&lt;/a&gt; and how he is using it for planning home improvements.&lt;/p&gt;</summary><category term="slug"></category><category term="meetings"></category><category term="blender"></category></entry><entry><title>Minutes 2014-03-13</title><link href="http://sluglinux.org/minutes/2014-03-13.html" rel="alternate"></link><updated>2014-03-13T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-03-13:minutes/2014-03-13.html</id><summary type="html">&lt;!---
+Summary:
+--&gt;
+
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Siouxland Libraries Main Branch, Downtown Sioux Falls Room: Main
+Conference Room Date: Thursday, March 13, 2014 Time: 6:00 PM to 9:00 PM&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plans are nothing; planning is everything. - Dwight D. Eisenhower&lt;/li&gt;
+&lt;li&gt;My experience using the animation program, Blender, for CAD - Mr. Tuttle&lt;/li&gt;
+&lt;li&gt;ownCloud 6 - nickermire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to add items to the agenda!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do you secure your Linux system?&lt;/li&gt;
+&lt;li&gt;Virt-Manager&lt;/li&gt;
+&lt;li&gt;ZFS&lt;/li&gt;
+&lt;li&gt;TT-RSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=1"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=1"&gt;Google
+maps&lt;/a&gt;&lt;/p&gt;</summary><category term="owncloud"></category><category term="blender"></category><category term="cad"></category><category term="virtualization"></category><category term="zfs"></category><category term="filesystems"></category><category term="security"></category></entry><entry><title>Minutes 2014-01-16</title><link href="http://sluglinux.org/minutes/2014-01-16.html" rel="alternate"></link><updated>2014-01-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2014-01-16:minutes/2014-01-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
+Room: Main Meeting Room B&lt;br /&gt;
+Date: Thursday, January 16, 2014&lt;br /&gt;
+Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Still moving forward with quarterly meetings.&lt;ul&gt;
+&lt;li&gt;Next meeting will be in January 2014 to avoid holiday plans.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Migrating from screen to tmux&lt;/li&gt;
+&lt;li&gt;weechat, relays and the weechat android app&lt;/li&gt;
+&lt;li&gt;wayland&lt;/li&gt;
+&lt;li&gt;Owncloud 6&lt;/li&gt;
+&lt;li&gt;Keepass&lt;/li&gt;
+&lt;li&gt;TT-RSS&lt;/li&gt;
+&lt;li&gt;Feel free to add items to the agenda!
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=12
+OpenStreetMa"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=14
+Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</summary><category term="weechat"></category><category term="irc"></category><category term="screen"></category><category term="tmux"></category><category term="wayland"></category><category term="owncloud"></category><category term="keepass"></category></entry><entry><title>Minutes 2013-09-19</title><link href="http://sluglinux.org/minutes/2013-09-19.html" rel="alternate"></link><updated>2013-09-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-09-19:minutes/2013-09-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
+Room: Main Meeting Room B&lt;br /&gt;
+Date: Thursday, September 19, 2013&lt;br /&gt;
+Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Next meeting is to be in January instead of December to avoid
+    interfering with holiday plans.&lt;/li&gt;
+&lt;li&gt;We spoke a little about different filesystems such as ZFS, ext3,
+    ext4, btrfs, ReiserFS and ZFS.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pypy.org/"&gt;PyPy&lt;/a&gt; was brought up as a faster implementation
+    of the python interpreter.&lt;/li&gt;
+&lt;li&gt;It is a good time to try &lt;a href="http://www.linuxfromscratch.org/lfs/"&gt;LFS&lt;/a&gt;
+    (Linux From Scratch) because recently both it and
+    &lt;a href="http://www.linuxfromscratch.org/blfs/"&gt;BLFS&lt;/a&gt; had major releases,
+    which doesn't often happen. This is significant because more
+    packages will likely be tested.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sparkleshare.org/"&gt;SparkleShare&lt;/a&gt; is a privately hostable,
+    Dropbox-like system that uses Git as the storage back-end and ssh
+    for transport.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://torproject.org/"&gt;Tor&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;General discussion about &lt;a href="https://www.torproject.org/about/overview.html.en#thesolution"&gt;how Tor
+    works&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;More specific discussion about &lt;a href="https://www.torproject.org/docs/bridges.html.en"&gt;Tor
+    bridges&lt;/a&gt;, and
+    why they are useful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://crypto.cat/"&gt;Cryptocat&lt;/a&gt; was brought up, but not
+    successfully demonstrated.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://0bin.net/"&gt;0bin&lt;/a&gt; was brought up in discussion, it is a
+    &lt;a href="http://en.wikipedia.org/wiki/Pastebin"&gt;pastebin&lt;/a&gt; that encrypts the
+    paste using JavaScript and a key passed through the &lt;a href="http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding#GeneralURLsyntax"&gt;fragment
+    portion of the
+    URL&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://joeyh.name/code/etckeeper/"&gt;etckeeper&lt;/a&gt;
+    (&lt;a href="https://github.com/joeyh/etckeeper"&gt;GitHub&lt;/a&gt;) came up in
+    conversation, but wasn't widely used.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sabayon.org/"&gt;Sabayon&lt;/a&gt; came up as a distribution easier
+    to get started with than &lt;a href="http://www.gentoo.org/"&gt;Gentoo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We watched a video for &lt;a href="http://elementaryos.org/"&gt;elementary OS&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://smartos.org/"&gt;SmartOS&lt;/a&gt; came up, but no one had used it yet.
+    &lt;a href="http://openindiana.org/"&gt;OpenIndiana&lt;/a&gt; also came up.&lt;/li&gt;
+&lt;li&gt;Minimal Linux distributions came up, including
+    &lt;a href="http://www.finnix.org/"&gt;Finnix&lt;/a&gt;,
+    &lt;a href="http://www.raspbian.org/"&gt;Raspbian&lt;/a&gt;, and
+    &lt;a href="http://crunchbang.org/"&gt;CrunchBang&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nodejs.org/"&gt;node.js&lt;/a&gt; was also a topic of some discussion.&lt;ul&gt;
+&lt;li&gt;As was some of the &lt;a href="http://en.wikipedia.org/wiki/JavaScript#History"&gt;History of
+    JavaScript&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other programming related discussion included
+    &lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt; and
+    &lt;a href="http://www.clojurescript.net/"&gt;ClojureScript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There was some &lt;a href="http://www.perl.org/"&gt;Perl&lt;/a&gt; discussion, that segued
+    into good programming practices.&lt;/li&gt;
+&lt;li&gt;System services and daemons were also discussed, which brought up
+    &lt;a href="http://mmonit.com/monit/"&gt;Monit&lt;/a&gt; and &lt;a href="http://mmonit.com/"&gt;M/Monit&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="linux from scratch"></category><category term="sparkleshare"></category><category term="distros"></category><category term="monit"></category><category term="perl"></category></entry><entry><title>Minutes 2013-06-20</title><link href="http://sluglinux.org/minutes/2013-06-20.html" rel="alternate"></link><updated>2013-06-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-06-20:minutes/2013-06-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Main Branch&lt;br /&gt;
+Room: Main Meeting Room B&lt;br /&gt;
+Date: Thursday, June 20, 2013&lt;br /&gt;
+Time: 6:00 PM to 8:30 PM  &lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Projects I have been working on are&lt;/li&gt;
+&lt;li&gt;xmonad&lt;/li&gt;
+&lt;li&gt;synergy 3 computer 4 monitor setup&lt;/li&gt;
+&lt;li&gt;gitlab&lt;/li&gt;
+&lt;li&gt;update from squeeze to wheezy stable&lt;/li&gt;
+&lt;li&gt;migrate from apache to nginx&lt;/li&gt;
+&lt;li&gt;using rdiff-backup&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tmux and screen
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feel free to add items to the agenda!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.openstreetmap.org/?mlat=43.54935&amp;amp;mlon&amp;gt;=-96.72901&amp;amp;zoom=12
+OpenStreetMa"&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maps.google.com/maps?q=sioux+falls,+sd+main+library&amp;amp;hl=en&amp;amp;ll=43.54805&amp;gt;,-96.729984&amp;amp;spn=0.04025,0.083084&amp;amp;sll=44.2127,-100.247164&amp;amp;sspn=5.094294,10.634766&amp;amp;t=m&amp;amp;hq=main+library&amp;amp;hnear=Sioux+Falls,+Minnehaha,+South+Dakota&amp;amp;z=14
+Google map"&gt;Google Maps&lt;/a&gt;&lt;/p&gt;</summary><category term="xmonad"></category><category term="synergy"></category><category term="gitlab"></category><category term="debian"></category><category term="apache"></category><category term="nginx"></category><category term="rdiff-backup"></category><category term="tmux"></category><category term="screen"></category></entry><entry><title>Minutes 2013-01-17</title><link href="http://sluglinux.org/minutes/2013-01-17.html" rel="alternate"></link><updated>2013-01-17T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2013-01-17:minutes/2013-01-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Feel free to add to topics you would like to discuss!
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;</summary></entry><entry><title>Minutes 2012-12-20</title><link href="http://sluglinux.org/minutes/2012-12-20.html" rel="alternate"></link><updated>2012-12-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-12-20:minutes/2012-12-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Presentation on NAS by phliver
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;</summary><category term="presentation"></category><category term="nas"></category></entry><entry><title>Minutes 2012-11-15</title><link href="http://sluglinux.org/minutes/2012-11-15.html" rel="alternate"></link><updated>2012-11-15T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-11-15:minutes/2012-11-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Steam on linux.&lt;/li&gt;
+&lt;li&gt;Opello demonstrated his Raspberry Pi
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;</summary><category term="steam"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-10-18</title><link href="http://sluglinux.org/minutes/2012-10-18.html" rel="alternate"></link><updated>2012-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-10-18:minutes/2012-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MrTuttle spoke about some bad decisions he made in his life that led
+    to getting the cops called on him.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registration is now open for &lt;a href="http://southdakotacodecamp.net/"&gt;South Dakota Code
+    Camp&lt;/a&gt;. Visit the site to register.
+    The Event takes place on Nov. 10th from 8:00 am to 5:00 pm. at
+    Colorado Technical University. Opello obtained a &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry
+    Pi&lt;/a&gt; that he will be presenting at the
+    South Dakota Code Camp and is looking for ideas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please feel free to add to the list.&lt;/p&gt;</summary><category term="programming"></category><category term="raspberry pi"></category></entry><entry><title>Minutes 2012-07-19</title><link href="http://sluglinux.org/minutes/2012-07-19.html" rel="alternate"></link><updated>2012-07-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-07-19:minutes/2012-07-19.html</id><summary type="html">&lt;h1&gt;Notice&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We have been having a summery cookout instead of a meeting. We should
+decide if we want to have something like that again or just a regular
+meeting.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;For now we will plan to just have a meeting, but should certainly
+consider the social event.&lt;/p&gt;
+&lt;p&gt;I'm also not sure whether we have the library room reserved for July.&lt;/p&gt;
+&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;TODO&lt;/p&gt;</summary><category term="cookout"></category></entry><entry><title>Minutes 2012-06-21</title><link href="http://sluglinux.org/minutes/2012-06-21.html" rel="alternate"></link><updated>2012-06-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-06-21:minutes/2012-06-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Two new people showed up at 5:30 PM but nobody was there for general
+help.&lt;/p&gt;
+&lt;p&gt;At approximately 6:30 PM, Dan and Rob arrived.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We fielded general questions about Linux and Open Source. Brief
+discussion about &lt;a href="http://www.imdb.com/title/tt0308808/"&gt;Revolution OS
+(movie)&lt;/a&gt;.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Dan installed Debian into a virtual machine to play with running
+mozilla.org FireFox (instead of IceWeasel). We then walked through
+setting up mozilla.org FireFox in &lt;code&gt;/opt&lt;/code&gt; on an IBM ThinkPad T-60 running
+Debian Squeeze.&lt;/p&gt;
+&lt;p&gt;We discussed various desktop environments. Rob and Dan preferred
+&lt;a href="http://fluxbox.org/"&gt;Fluxbox&lt;/a&gt; for being minimal. The Debian laptop was
+running &lt;a href="http://www.xfce.org/"&gt;Xfce&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Rob and Dan had a post-meeting discussion about Arduino and Rob's
+thermostat control and home automation projects.&lt;/p&gt;</summary><category term="distros"></category><category term="revolution os"></category><category term="fluxbox"></category><category term="debian"></category><category term="firefox"></category></entry><entry><title>Minutes 2012-05-17</title><link href="http://sluglinux.org/minutes/2012-05-17.html" rel="alternate"></link><updated>2012-05-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-05-17:minutes/2012-05-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;There'll be plenty of time for you to tell us what new stuff you've been
+discovering about GNU/Linux and free / open source software.&lt;/p&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;</summary></entry><entry><title>Minutes 2012-04-19</title><link href="http://sluglinux.org/minutes/2012-04-19.html" rel="alternate"></link><updated>2012-04-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-04-19:minutes/2012-04-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;There'll be plenty of time for you to tell us what new stuff you've been
+discovering about GNU/Linux and free / open source software.&lt;/p&gt;
+&lt;p&gt;Please feel free to add to the list of topics to discuss.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Vector demonstrated &lt;a href="http://www.endian.com/us/"&gt;endian&lt;/a&gt; for use as a
+content filtering solution in a virtual machine.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="endian"></category><category term="virtualization"></category></entry><entry><title>Minutes 2012-03-15</title><link href="http://sluglinux.org/minutes/2012-03-15.html" rel="alternate"></link><updated>2012-03-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-03-15:minutes/2012-03-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;There'll be plenty of time for you to tell us what new stuff you've been
+discovering about GNU/Linux and free / open source software.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The &lt;a href="http://www.raspberrypi.org/"&gt;raspberry pi&lt;/a&gt; computer was released. I
+would like to hear ideas that some of us have for these.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Still needs to have hyperlinks added.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discussed a few different distros such as &lt;a href="http://www.archlinux.org/"&gt;Arch
+    linux&lt;/a&gt;, &lt;a href="http://www.debian.org/"&gt;Debian&lt;/a&gt;,
+    &lt;a href="http://linuxmint.com/"&gt;Linux mint&lt;/a&gt;. The new &lt;a href="http://crunchbanglinux.org/"&gt;Crunchbang
+    statler&lt;/a&gt; was demonstrated.&lt;/li&gt;
+&lt;li&gt;Demonstrated a few monitoring programs such as
+    &lt;a href="http://htop.sourceforge.net/"&gt;htop&lt;/a&gt; and
+    &lt;a href="http://nmon.sourceforge.net/pmwiki.php"&gt;nmon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;HDDS with linux installed can be moved over from one system to
+    another and still boot (for the most part, I have never seen it not
+    work).&lt;/li&gt;
+&lt;li&gt;Vector and phliver both have &lt;a href="http://fonality.com/trixbox/"&gt;trixbox&lt;/a&gt;
+    which is based on &lt;a href="http://www.centos.org/"&gt;CentOS&lt;/a&gt; running as
+    virtual machines in linux. We discussed using spare android phones
+    to make a connection to asterisk so they can be used as cordless
+    VOIP phones.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; ideas&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://xbmc.org/"&gt;xbmc&lt;/a&gt; frontend - &lt;a href="http://www.raspberrypi.org/archives/571"&gt;xbmc running on a Raspberry
+    Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;hooking it up to a cell phone to do a mobile internet radio
+    show. (doable with android?)&lt;/li&gt;
+&lt;li&gt;car computer. (doable with android?)&lt;/li&gt;
+&lt;li&gt;There are alternatives to raspberry pi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We discussed the &lt;a href="http://ampache.org/"&gt;ampache&lt;/a&gt; web based music
+    front end.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="raspberry pi"></category><category term="nmon"></category><category term="android"></category><category term="xbmc"></category><category term="hdds"></category><category term="trixbox"></category><category term="voip"></category><category term="asterisk"></category><category term="ampache"></category></entry><entry><title>Minutes 2012-02-16</title><link href="http://sluglinux.org/minutes/2012-02-16.html" rel="alternate"></link><updated>2012-02-16T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2012-02-16:minutes/2012-02-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.&lt;/p&gt;
+&lt;p&gt;There'll be plenty of time for you to tell us what new stuff you've been
+discovering about GNU/Linux and free / open source software.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;To be posted.&lt;/p&gt;</summary></entry><entry><title>Minutes 2011-01-20</title><link href="http://sluglinux.org/minutes/2011-01-20.html" rel="alternate"></link><updated>2011-01-20T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2011-01-20:minutes/2011-01-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch, Room 3 at 6:30 pm.&lt;/p&gt;
+&lt;p&gt;The room opened at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session began at 5:30 pm.&lt;/p&gt;
+&lt;h1&gt;Directions&lt;/h1&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;h2&gt;FreeNAS&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Glenn spoke about installing and using FreeNAS &lt;a href="http://freenas.org"&gt;1&lt;/a&gt;,
+a FreeBSD-based network-attached storage distribution. FreeNAS is a
+dedicated distro, which means it completely takes over the computer. It
+is not a candidate for dual booting.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;The two basic installation options are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A full platform install. FreeNAS is written to the hard disk; ideal
+    for low-memory installs and customization with FreeBSD packages.&lt;/li&gt;
+&lt;li&gt;An embedded install. The FreeNAS image is installed and runs
+    entirely in RAM. An embedded install includes an option for USB
+    stick installation: only the FreeBSD image is written to the USB
+    device; all data is written to other media.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of the installation, just before booting into the fresh
+install, FreeNAS presents a screenful of device names and settings that
+are essential to making the system usable. Make sure to jot down this
+information before rebooting, Glenn said.&lt;/p&gt;
+&lt;p&gt;When the system is rebooted, the FreeNAS computer console is no longer
+needed, as all configuration and services are administered through the
+FreeNAS web interface.&lt;/p&gt;
+&lt;p&gt;There are a few steps to setting up the FreeNAS box before use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change the default local IP address (192.168.1.250), if desired.&lt;/li&gt;
+&lt;li&gt;Change the default administrative username and password.&lt;/li&gt;
+&lt;li&gt;Enable https, which is necessary to enable the ssh server.&lt;/li&gt;
+&lt;li&gt;Turn off Bonjour (zeroconf), if the FreeNAS box is to be exposed to
+    the internet.&lt;/li&gt;
+&lt;li&gt;Add and mount disks.&lt;/li&gt;
+&lt;li&gt;Add users (and grant access to services).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;FreeNAS offers a number of servers, including http, ftp, ssh, rsync,
+Samba, NFS, torrents, uPNP, DynamicDNS, and streaming iTunes/DAAP.
+Documentation for configuring these services varies from very good to
+non-existent, Glenn said.&lt;/p&gt;
+&lt;p&gt;When compared to an off-the-shelf NAS server, such as CoolmaxNAS,
+FreeNAS offers more services, although with a bit more setup. If all you
+need are Samba, ftp, and maybe bit torrent, the Coolmax device will take
+less power, Glenn said. If you need anything more complex, FreeNAS is a
+free solution that can be installed on modest hardware, he said.&lt;/p&gt;
+&lt;h2&gt;Prey&lt;/h2&gt;
+&lt;p&gt;Steve presented a brief demo of Prey, open source software that lets you
+track your own laptop or smart phone, in the event of theft.&lt;/p&gt;
+&lt;p&gt;Once Prey is installed, the user manages it from the Prey website
+&lt;a href="http://preyproject.com"&gt;2&lt;/a&gt;. The software supports Mac, Windows, and
+Linux, as well as Android. The iPhone and iPad versions of Prey are in
+the works.&lt;/p&gt;
+&lt;p&gt;Steve showed the web interface and spoke about the limitations of the
+free plans, as well as the benefits of paying a \$5 (or higher) monthly
+fee for encrypted communication, more frequent reports, and access to
+active hardware scans.&lt;/p&gt;
+&lt;p&gt;To take advantage the software, the Prey user needs to enable a guest
+account on the device so the thief can connect to the internet, Steve
+said. If the phone or laptop is locked down too much, it will prevent
+Prey from filing its reports.&lt;/p&gt;
+&lt;h2&gt;Program Ideas&lt;/h2&gt;
+&lt;p&gt;The group kicked around program ideas for 2011:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data recovery / forensics&lt;/li&gt;
+&lt;li&gt;Clonezilla&lt;/li&gt;
+&lt;li&gt;Using Xen for virtual machines&lt;/li&gt;
+&lt;li&gt;Security testing techniques&lt;/li&gt;
+&lt;li&gt;Jinzora media server demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anyone interested in presenting these or giving any other free software
+demos should contact Glenn at dakota.son at gmail.com.&lt;/p&gt;
+&lt;p&gt;Ten people attended.&lt;/p&gt;
+&lt;p&gt;--Submitted by Glenn&lt;/p&gt;</summary><category term="freenas"></category><category term="bsd"></category><category term="prey"></category></entry><entry><title>Minutes 2010-10-21</title><link href="http://sluglinux.org/minutes/2010-10-21.html" rel="alternate"></link><updated>2010-10-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-10-21:minutes/2010-10-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch in Sioux Falls, Room 3 at 6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Adam will discuss the differences (and similarities) between BSD and
+Linux.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;We are still looking for 5- to 10-minute demos for October's meeting.&lt;/p&gt;
+&lt;p&gt;If you've tried a new distribution or found an open source program that
+makes your computer more useful, show it to the club. A laptop is
+available for these demos, so you don't need to bring your own machine.&lt;/p&gt;
+&lt;p&gt;To volunteer, contact Glenn (dakota.son at gmail.com).&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;h2&gt;Intro to BSD&lt;/h2&gt;
+&lt;p&gt;This month, the club got a glimpse into the world of the BSD (Berkeley
+Software Distribution) operating systems, with comparisons between
+FreeBSD to Debian Linux.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Berkeley_Software_Distribution"&gt;http://en.wikipedia.org/wiki/Berkeley_Software_Distribution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Adam, who has used FreeBSD since 1997, spoke about how the BSD system
+includes both a kernel and userland applications, unlike a Linux
+distribution, in which the kernel has been developed separate from the
+GNU userland applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freebsd.org/"&gt;http://www.freebsd.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The main configuration tool in BSD is the sysinstall application, which
+is run on installation, but can be run to reconfigure system settings at
+any time.&lt;/p&gt;
+&lt;p&gt;In FreeBSD, upgrades are usually a two-step process, in which the kernel
+and userland are upgraded first, followed by any third-party
+applications.&lt;/p&gt;
+&lt;p&gt;Adam also introduced the FreeBSD ports system. In FreeBSD, software can
+be installed either via packages, which are pre-compiled binaries, or
+via the ports tree, a directory that contains links to the source code
+of thousands of software packages and default makefiles for compiling
+them.&lt;/p&gt;
+&lt;p&gt;Port management tools, such as portmaster, provide dependency resolution
+similar to Debian's apt-get command.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://dougbarton.us/portmaster.html"&gt;http://dougbarton.us/portmaster.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The single most important document when learning FreeBSD is the FreeBSD
+Handbook , Adam said. The handbook contains information about Unix
+basics, as well as clear How-Tos for advanced topics.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freebsd.org/doc/handbook/"&gt;http://www.freebsd.org/doc/handbook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The BSDs generally include a Linux compatibility layer, which allows BSD
+users to run Linux applications in a chroot environment. Since the
+conversion is only in system calls, the Linux applications run at near
+native speed, he said.&lt;/p&gt;
+&lt;p&gt;Adam also discussed using GEOM to create a mirrored disk RAID with five
+commands, and some of the features of ZFS, the self-healing file system
+developed by Sun.&lt;/p&gt;
+&lt;h2&gt;Hackerspace&lt;/h2&gt;
+&lt;p&gt;Steve, Dusty, Rob, and Dan are planning to create a local hackerspace. A
+hackerspace is a physical space that allows people to meet and work on
+projects and participate in workshops.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://hackerspaces.org/wiki/"&gt;http://hackerspaces.org/wiki/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;They would like your help and your input.&lt;/p&gt;
+&lt;p&gt;The next hackerspace meeting will be at 7 pm on Thursday, Nov. 11, at
+the Caribou Coffee shop at 1924 S. Minnesota Ave. in Sioux Falls.&lt;/p&gt;
+&lt;p&gt;For more info, visit:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mooncitylabs.org"&gt;http://mooncitylabs.org&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Other Business&lt;/h2&gt;
+&lt;p&gt;Dan and Steve have converted the SLUG's website to a new wiki-based
+site. Club members are welcome to register and edit pages.&lt;/p&gt;
+&lt;p&gt;Thanks to Dan and Steve for all their hard work!&lt;/p&gt;
+&lt;h2&gt;Help Session&lt;/h2&gt;
+&lt;p&gt;The evening began with a new member reporting problems getting Linux
+Mint to work with a Kodak ESP 3 printer and a web cam.&lt;/p&gt;
+&lt;p&gt;Members gave their initial advice, and he was given a web page to check.
+Discussion will continue on the mailing list.&lt;/p&gt;
+&lt;h2&gt;Attendance&lt;/h2&gt;
+&lt;p&gt;In all, 13 people attended the meeting, including two new mailing list
+members.&lt;/p&gt;
+&lt;h2&gt;November Meeting&lt;/h2&gt;
+&lt;p&gt;The SLUG will meet on Thursday, Nov. 18, at the Siouxland Libraries Oak
+View Branch in Room 3. The room will open at 5 pm for setup.&lt;/p&gt;
+&lt;p&gt;A general help session will begin at 5:30 pm.&lt;/p&gt;
+&lt;p&gt;At 6:30 pm, Dusty will show us how to improve our use of The Gimp (GNU
+Image Manipulation Program).&lt;/p&gt;
+&lt;p&gt;We welcome anyone willing to do a 5- to 10-minute demonstration for
+November's meeting.&lt;/p&gt;
+&lt;p&gt;If you've tried a new distribution or found an open source program that
+makes your computer more useful, show it to the club. A laptop is
+available for these demos, so you don't need to bring your own machine.&lt;/p&gt;
+&lt;p&gt;To volunteer, contact Glenn (dakota.son at gmail.com).&lt;/p&gt;
+&lt;h2&gt;December topic&lt;/h2&gt;
+&lt;p&gt;Dinner at Tommy Jack's Pub - details TBA&lt;/p&gt;</summary><category term="bsd"></category><category term="freebsd"></category><category term="wiki"></category></entry><entry><title>Minutes 2010-09-16</title><link href="http://sluglinux.org/minutes/2010-09-16.html" rel="alternate"></link><updated>2010-09-16T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-09-16:minutes/2010-09-16.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;It's open mic night at the Siouxland Linux User Group!&lt;/p&gt;
+&lt;p&gt;Tell us what you've been working on, or what Linux software you can't
+live without, or maybe just what's on your mind.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rob will discuss what steps he is taking to get virtualization
+    rolling under Ubuntu.&lt;/li&gt;
+&lt;li&gt;Dan may say a few words about ssh tips and tricks.&lt;/li&gt;
+&lt;li&gt;And, if all else fails, Glenn will give a short demo of Peppermint
+    Ice Linux, an easy-to-install web-services oriented distribution
+    aimed at netbooks and older hardware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But there will be plenty of time for you to tell us what new stuff
+you've been discovering about GNU/Linux and free / open source software.&lt;/p&gt;
+&lt;h2&gt;Live CDs&lt;/h2&gt;
+&lt;p&gt;We will have free bootable CDs for folks who want to try GNU/Linux
+without installing it on their computer. Distributions will include
+Linux Mint 9, Ubuntu 10.04, Kubuntu 10.04, and various flavors of
+Debian.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from Sixth Street, turn north onto North
+Bahnson Ave. and drive three blocks to Third Street. The library is
+located at the northeast corner of the intersection.&lt;/p&gt;
+&lt;p&gt;From Sycamore Avenue, turn west on Third Street until you near the North
+Bahnson intersection (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;h2&gt;General Help Session&lt;/h2&gt;
+&lt;p&gt;The SLUG meeting began at 5:30 p.m. with a general help session. These
+sessions are an informal way to get your vexing GNU/Linux questions
+aired -- and probably answered.&lt;/p&gt;
+&lt;p&gt;The main session started a little late, as the general discussion was
+rolling along pretty well at the meeting's start time.&lt;/p&gt;
+&lt;p&gt;Glenn gave a quick overview of Peppermint Linux. Two Linux Mint
+developers have stripped down Mint to create Peppermint, a lightweight
+distribution focused on web services such as Facebook, Twitter, and
+Google Apps.&lt;/p&gt;
+&lt;p&gt;Traditional desktop applications are available through the software
+manager, but are not included in the default installation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://peppermintos.com/"&gt;http://peppermintos.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Virtualization on Ubuntu&lt;/h2&gt;
+&lt;p&gt;Rob explained the history of virtualization on Ubuntu and how and why it
+broke with Ubuntu 10.04.&lt;/p&gt;
+&lt;p&gt;Right now, your best bet for virtualization on Ubuntu is VirtualBox OSE,
+but Canonical is developing Qemu for future releases.&lt;/p&gt;
+&lt;p&gt;When Qemu is properly configured, a virtual machine running on one Qemu
+host can be migrated to a second Qemu host with no downtime, Rob said.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://wiki.qemu.org/"&gt;http://wiki.qemu.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.virtualbox.org/wiki/VirtualBox"&gt;http://www.virtualbox.org/wiki/VirtualBox&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;SSH&lt;/h2&gt;
+&lt;p&gt;Dan explained the ssh command syntax and useful options such as port
+dynamic port forwarding and compression (when forwarding X sessions or
+transferring large files).&lt;/p&gt;
+&lt;p&gt;He spoke about using the ssh_config man page as a resource for building
+a local ssh config file, and gave examples.&lt;/p&gt;
+&lt;p&gt;He also spoke about denyhosts, a python program that will track failed
+ssh authorization attempts and automatically add problem IP addresses to
+the list of denied hosts.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://denyhosts.sourceforge.net/"&gt;http://denyhosts.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Attendance&lt;/h2&gt;
+&lt;p&gt;Eleven people were present, including one first-time attendee (from the
+mailing list) and three visitors from Sioux City.&lt;/p&gt;
+&lt;h2&gt;October Meeting&lt;/h2&gt;
+&lt;p&gt;The SLUG will meet at 6:30pm on Thursday, October 21, at the Siouxland
+Libraries Oak View Branch in Room 3. The room will open at 5pm for
+setup. A general help session will begin at 5:30pm.&lt;/p&gt;
+&lt;p&gt;Adam will discuss the differences (and similarities) between BSD and
+Linux.&lt;/p&gt;
+&lt;p&gt;We are still looking for 5- to 10-minute demos for October's meeting.&lt;/p&gt;
+&lt;p&gt;If you've tried a new distribution or found an open source program that
+makes your computer more useful, show it to the club. A laptop is
+available for these demos, so you don't need to bring your own machine.&lt;/p&gt;
+&lt;p&gt;To volunteer, contact Glenn (dakota.son at gmail.com).&lt;/p&gt;
+&lt;h2&gt;November topic&lt;/h2&gt;
+&lt;p&gt;Using the GIMP&lt;/p&gt;
+&lt;h2&gt;December topic&lt;/h2&gt;
+&lt;p&gt;Party!&lt;/p&gt;</summary><category term="virtualization"></category><category term="ssh"></category><category term="distros"></category></entry><entry><title>Minutes 2010-08-19</title><link href="http://sluglinux.org/minutes/2010-08-19.html" rel="alternate"></link><updated>2010-08-19T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-08-19:minutes/2010-08-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Secure Network Tunnels: Configuring OpenVPN - 6:30pm&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Dustin S. will demonstrate the correct way to configure secure network
+tunnels using OpenVPN.&lt;/p&gt;
+&lt;p&gt;OpenVPN allows you to build a virtual private network using Windows,
+Linux, and Mac platforms. OpenVPN is a feature-rich, flexible system for
+anyone who needs to provide secure network traffic via the internet.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Installation Basics -- New User session at 5:30pm&lt;/h2&gt;
+&lt;p&gt;Before the regular meeting, Glenn will talk about "Installation Basics,"
+reviewing some of the basic steps to install a Linux distribution.
+Anyone is welcome to jump in to share advice and experience.&lt;/p&gt;
+&lt;p&gt;The New User session is also a time for new users to seek help for any
+problems they may be having with the Linux learning curve.&lt;/p&gt;
+&lt;p&gt;Linux experts and novices are encouraged to attend this early session.&lt;/p&gt;
+&lt;p&gt;The room will open at 5 p.m.&lt;/p&gt;
+&lt;h2&gt;Live CDs&lt;/h2&gt;
+&lt;p&gt;We will have free bootable CDs for folks who want to try GNU/Linux
+without installing it on their computer. Distributions will include
+Linux Mint 9, Ubuntu 10.04, Kubuntu 10.04, and various flavors of
+Debian.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from Sixth Street, turn north onto North
+Bahnson Ave. and drive three blocks to Third Street. The library is
+located at the northeast corner of the intersection.&lt;/p&gt;
+&lt;p&gt;From Sycamore Avenue, turn west on Third Street until you near the North
+Bahnson intersection (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Thanks to Dustin S. for his presentation on OpenVPN configuration at
+last night's SLUG meeting!&lt;/p&gt;
+&lt;p&gt;We had a bit of discussion about bridged vs. routed VPN configuration,
+which hopefully helped some of the folks struggling to make their VPN
+installations work.&lt;/p&gt;
+&lt;p&gt;Thanks again, Dustin!&lt;/p&gt;
+&lt;p&gt;--Glenn&lt;/p&gt;</summary><category term="openvpn"></category><category term="install"></category><category term="distros"></category></entry><entry><title>Minutes 2010-06-17</title><link href="http://sluglinux.org/minutes/2010-06-17.html" rel="alternate"></link><updated>2010-06-17T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-06-17:minutes/2010-06-17.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Remote Control: Secure Access in GNU/Linux&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Dustin and Rob will demonstrate some secure remote access utilities for
+controlling Linux, Mac, and Windows boxes over the internet.&lt;/p&gt;
+&lt;p&gt;This is a demo night, so once Dustin and Rob are done, anyone can take
+the floor and show off some cool and useful software.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Asking the Right Questions -- New User session&lt;/h2&gt;
+&lt;p&gt;Before the regular meeting, Glenn will present "Asking the Right
+Questions," which will give questions that new users should ask before
+diving into a Linux distribution. Anyone is welcome to jump in to share
+advice and experience.&lt;/p&gt;
+&lt;p&gt;The New User session is also a time for new users to seek help for any
+problems they may be having with the Linux learning curve.&lt;/p&gt;
+&lt;p&gt;Linux experts and novices are encouraged to attend this early session.&lt;/p&gt;
+&lt;p&gt;The room will open at 5pm.&lt;/p&gt;
+&lt;h2&gt;Live CDs&lt;/h2&gt;
+&lt;p&gt;We will have free bootable CDs for folks who want to try GNU/Linux
+without installing it on their computer. Distributions will include
+Linux Mint 9, Ubuntu 10.04, Kubuntu 10.04, Xubuntu 10.04, and various
+flavors of Debian.&lt;/p&gt;
+&lt;h2&gt;Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from Sixth Street, turn north onto North
+Bahnson Ave. and drive three blocks to Third Street. The library is
+located at the northeast corner of the intersection.&lt;/p&gt;
+&lt;p&gt;From Sycamore Avenue, turn west on Third Street until you near the North
+Bahnson intersection (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;On behalf of the SLUG, I would like to extend a big thank you to Dustin
+an Rob for their presentations on Thursday night.&lt;/p&gt;
+&lt;p&gt;Both bravely ventured into unknown territory -- using remote control
+software over the library's wireless connection -- and both succeeded!&lt;/p&gt;
+&lt;p&gt;Good job, guys!&lt;/p&gt;
+&lt;p&gt;--Glenn&lt;/p&gt;</summary><category term="demo"></category><category term="security"></category><category term="presentation"></category></entry><entry><title>Minutes 2010-05-20</title><link href="http://sluglinux.org/minutes/2010-05-20.html" rel="alternate"></link><updated>2010-05-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-05-20:minutes/2010-05-20.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h2&gt;Speak Freely: Open Source Voice over IP&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Steve and Rob will recount their adventures in open source VoIP
+applications during May's Siouxland Linux Users Group meeting. They
+learned some important lessons about hardware that works (and doesn't
+work) and software configuration for VoIP.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Meet Linux Mint&lt;/h2&gt;
+&lt;p&gt;New User session at 5:30 p.m.&lt;/p&gt;
+&lt;p&gt;Before the regular meeting, Glenn will present a brief introduction to
+Linux Mint, a more polished version of Ubuntu.&lt;/p&gt;
+&lt;p&gt;"Meet Linux Mint" will kick off the SLUG's New User session, a time for
+new users to seek help for any problems they may be having with the
+Linux learning curve.&lt;/p&gt;
+&lt;p&gt;Linux experts and novices are encouraged to attend this early session.
+The room will open at 5pm.&lt;/p&gt;
+&lt;h2&gt;Live CDs&lt;/h2&gt;
+&lt;p&gt;We will have free bootable CDs for folks who want to try GNU/Linux
+without installing it on their computer. Distributions will include
+Linux Mint 8 (and rc 9), Ubuntu 10.04, Kubuntu 10.04, and various
+flavors of Debian.&lt;/p&gt;
+&lt;h2&gt;Location Directions&lt;/h2&gt;
+&lt;p&gt;To get to the Oak View branch from the west, take Sixth Street east to
+North Bahnson Ave. Turn left at the light, and drive three blocks north
+to Third Street. The library is located at the northeast corner of the
+intersection.&lt;/p&gt;
+&lt;p&gt;From the east, drive west from Sycamore Avenue on Third Street until you
+near North Bahnson (about six blocks). The library will be on your
+right.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join. New members are
+welcome!&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;h2&gt;Speak Freely: Open Source Voice over IP&lt;/h2&gt;
+&lt;p&gt;Steve and Rob gave an overview of voice over IP services currently
+available, including the open source
+&lt;a href="http://www.asterisk.org/"&gt;Asterisk&lt;/a&gt; server and
+&lt;a href="http://www.freepbx.org/"&gt;FreePBX&lt;/a&gt; configuration manager. They also
+explained a number of possible configurations of Asterisk for home and
+business use.&lt;/p&gt;
+&lt;p&gt;The hardware requirements for Asterisk and FreePBX are minimal: Rob uses
+an Athlon 64 single core processor and rarely sees a processor load.
+Using several codecs (required if you use a mix of phone brands) could
+cause the processor load to climb, he said.&lt;/p&gt;
+&lt;p&gt;Specialized modules are available to connect the Asterisk server to
+other voice services, such as &lt;a href="https://www.google.com/voice"&gt;Google
+Voice&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Steve and Rob also talked about how their Asterisk servers connect to
+the telephone system through services like
+&lt;a href="http://vitelity.com/"&gt;vitelity.com&lt;/a&gt;, which allow VoIP users to choose
+an area code from a list of available numbers. Callers from that area
+dial a local number and so do not pay long-distance charges, regardless
+of where the VoIP server is located.&lt;/p&gt;
+&lt;p&gt;They also covered the different types of VoIP hardware available, and
+issues with 911 calling, which can be addressed by services offered by
+VoIP companies like &lt;a href="http://vitelity.com/"&gt;vitelity.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An informal Q-and-A session followed the presentation.&lt;/p&gt;
+&lt;h2&gt;New User Session&lt;/h2&gt;
+&lt;p&gt;The SLUG's first New User session kicked off with Glenn giving an
+overview of Linux Mint 9.&lt;/p&gt;
+&lt;p&gt;Linux Mint 9, released May 18, is a distribution based on Ubuntu's 10.04
+LTS version "Lucid Lynx." Security updates will be available to 2013.&lt;/p&gt;
+&lt;p&gt;Glenn highlighted some of the differences between Mint and other
+distributions: the ease of installing and removing software (open or
+proprietary), the use of the search function within the Mint Menu, and
+the ratings given to system updates.&lt;/p&gt;
+&lt;p&gt;Participants received Linux Mint 9 live CDs to try on their machines at
+home.&lt;/p&gt;
+&lt;h2&gt;Topic Suggestions&lt;/h2&gt;
+&lt;p&gt;The group discussed topics for future meetings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Virtualization in Linux&lt;/li&gt;
+&lt;li&gt;Pfsense and m0n0wall&lt;/li&gt;
+&lt;li&gt;Synergy and XDMCP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Attendance&lt;/h2&gt;
+&lt;p&gt;Fourteen people attended the May meeting.&lt;/p&gt;</summary><category term="voip"></category><category term="distros"></category><category term="mint"></category><category term="synergy"></category><category term="pfsense"></category><category term="m0n0wall"></category><category term="virtualization"></category></entry><entry><title>Minutes 2010-04-15</title><link href="http://sluglinux.org/minutes/2010-04-15.html" rel="alternate"></link><updated>2010-04-15T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-04-15:minutes/2010-04-15.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Oak View Branch of the Siouxland Libraries in Sioux Falls, Room 3 at
+6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;High Availability Tools: Keep on Servin'&lt;/p&gt;
+&lt;p&gt;Alex Dean will cover High Availability tools for Linux at the April
+Siouxland Linux Users Group meeting. These tools are critical to the
+delivery of enterprise-level services.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;An informal question-and-answer session will follow the presentation.&lt;/p&gt;
+&lt;p&gt;We will have free bootable CDs for folks who want to try GNU/Linux
+without installing it on their computer. Distributions include Ubuntu,
+Kubuntu, Xubuntu, Fedora with Gnome, Fedora with KDE, and various
+flavors of Debian.&lt;/p&gt;
+&lt;p&gt;There is no cost to attend the meeting or to join.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;p&gt;Alex Dean gave an overview of &lt;a href="http://www.drbd.org/"&gt;DRBD&lt;/a&gt; and
+&lt;a href="http://linux-ha.org/wiki/Heartbeat"&gt;Heartbeat&lt;/a&gt;, two high availability
+tools for Linux.&lt;/p&gt;
+&lt;p&gt;DRBD is used to manage a single data set mirrored on two computers, one
+computer acting as the primary server, and the other as secondary. The
+computers can be in separate server farms, if desired. Heartbeat works
+with DRBD to switch the secondary server to primary quickly and
+automatically, if the primary server should fail.&lt;/p&gt;
+&lt;p&gt;Alex went through the configuration files for both programs, and
+outlined situations in which both servers may be running, but they each
+think the other host has disappeared from the network. This situation
+usually occurs more frequently than the loss of a server, he said.&lt;/p&gt;
+&lt;p&gt;In the Q-and-A session that followed his talk, he outlined a number of
+ways that DRBD and Heartbeat could be used with MySQL database servers.&lt;/p&gt;
+&lt;p&gt;His recommended resource for DRBD is &lt;a href="http://www.drbd.org/users-guide"&gt;http://www.drbd.org/users-guide&lt;/a&gt;.
+The recommendations for heartbeat are
+&lt;a href="http://www.linux-ha.org/HeartbeatTutorials"&gt;http://www.linux-ha.org/HeartbeatTutorials&lt;/a&gt;,
+&lt;a href="http://people.linbit.com/~florian/heartbeat-users-guide/"&gt;http://people.linbit.com/~florian/heartbeat-users-guide/&lt;/a&gt;, and
+&lt;a href="http://www.clusterlabs.org"&gt;http://www.clusterlabs.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Alex works for IPS MeteoStar in Denver, CO, a company that provides high
+availability solutions for weather data worldwide to government and
+industry. See &lt;a href="http://weather.meteostar.com/"&gt;http://weather.meteostar.com/&lt;/a&gt; or
+www.meteostar.com/company/news.html for more information about IPS
+MeteoStar.&lt;/p&gt;
+&lt;h2&gt;Topic Suggestions&lt;/h2&gt;
+&lt;p&gt;We gleaned a few more meeting topics from the group:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Little Utilities for non-geeks;&lt;/li&gt;
+&lt;li&gt;Geotagging your digital photographs; and&lt;/li&gt;
+&lt;li&gt;Regular (monthly) install-fest / help sessions for new Linux users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Attendance&lt;/h2&gt;
+&lt;p&gt;Twelve people attended the April meeting.&lt;/p&gt;
+&lt;h2&gt;May Meeting&lt;/h2&gt;
+&lt;p&gt;Steve and Rob will present May's topic on VoIP - using the internet for
+making phone calls. They have been tweaking their Asterisk servers for a
+few months, and should be ready to go at 6:30pm on &lt;a href="Meetings:2010-05-20" title="wikilink"&gt;Thursday, May
+20&lt;/a&gt;, at the Oak View Branch meeting room
+3.&lt;/p&gt;
+&lt;p&gt;Free Linux live CDs will be available for folks who want to try Linux
+for the first time.&lt;/p&gt;
+&lt;h2&gt;June Meeting&lt;/h2&gt;
+&lt;p&gt;Topic TBA&lt;/p&gt;
+&lt;h2&gt;July Meeting&lt;/h2&gt;
+&lt;p&gt;No formal meeting: Barbecue or Pizza Party&lt;/p&gt;
+&lt;h2&gt;Future topics&lt;/h2&gt;
+&lt;p&gt;General help, video streaming, FreeNAS, Utilities for Non-geeks&lt;/p&gt;</summary><category term="ha"></category><category term="kde"></category><category term="distros"></category><category term="heartbeat"></category><category term="drbd"></category><category term="install fest"></category><category term="geotagging"></category></entry><entry><title>Minutes 2010-03-18</title><link href="http://sluglinux.org/minutes/2010-03-18.html" rel="alternate"></link><updated>2010-03-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-03-18:minutes/2010-03-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Oak View Branch near Third St. and North Bahnson,
+Room 3 at 6:30pm.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;A few business items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plans for upcoming meetings.&lt;ul&gt;
+&lt;li&gt;High-availability server tools - tentative April topic&lt;/li&gt;
+&lt;li&gt;VoIP - standby April or May topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other business items the group wants to discuss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Presentations on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux From Scratch - the why and the how&lt;/li&gt;
+&lt;li&gt;Hulu on Linux demo&lt;/li&gt;
+&lt;li&gt;Live CD demo (if there's time/interest)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Conclude with an open discussion period.&lt;/p&gt;
+&lt;p&gt;The library closes at 9pm.&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;p&gt;The Oak View Library gave the group a last-minute room upgrade, which
+may have confused members looking for the meeting.&lt;/p&gt;
+&lt;p&gt;If Room 3 is empty on meeting night, members should look for a Tux
+poster or the current SLUG program poster to find the correct room. The
+poster will be displayed at the meeting room door.&lt;/p&gt;
+&lt;p&gt;If all else fails, ask a friendly Oak View librarian for directions.&lt;/p&gt;
+&lt;h2&gt;Meeting Plans&lt;/h2&gt;
+&lt;p&gt;The group plans to have a picnic or pizza party sometime this summer.
+This meeting will be a social event, with no formal presentations.&lt;/p&gt;
+&lt;p&gt;There was some interest in &lt;a href="http://freenas.org/"&gt;FreeNAS&lt;/a&gt;, a
+FreeBSD-based distribution for network attached storage. The topic has
+been added to the program list.&lt;/p&gt;
+&lt;p&gt;The SLUG is still looking for someone with experience in local network
+media servers who is willing to give a 30- to 45-minute talk.&lt;/p&gt;
+&lt;h2&gt;Install Fest&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The group discussed organizing an install fest, when and where to hold
+one, and how much publicity would be needed. There was general agreement
+to include BSD in the offered distributions if someone with BSD
+experience can be found.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Linux from Scratch&lt;/h2&gt;
+&lt;p&gt;Charles explained the process of getting a Linux from Scratch (LFS)
+system running. LFS is the distribution he uses for his everyday
+computing.&lt;/p&gt;
+&lt;h3&gt;Reasons for running LFS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Control - less bloat&lt;/li&gt;
+&lt;li&gt;Security - no need to wait for a maintainer to apply patches&lt;/li&gt;
+&lt;li&gt;Speed&lt;/li&gt;
+&lt;li&gt;Education/Accomplishment - the user will learn about Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The documentation on the LFS website is good, and new users should pay
+attention to the manual's clear warnings and alerts, he said.&lt;/p&gt;
+&lt;p&gt;Charles has written shell scripts for the LFS build process to ensure
+that the correct commands are executed each time. Charles urged new
+users to make a backup image of the LFS partition after Chapter 5 in the
+LFS manual, just in case they make a mistake in building the system in
+Chapter 6.&lt;/p&gt;
+&lt;p&gt;He said that his first LFS build took about 60 hours, not including
+compile times.&lt;/p&gt;
+&lt;p&gt;Once users have a working LFS system, they can either use it as a
+command line environment, or they can look at Beyond Linux From Scratch
+(BLFS) or one of the other LFS-related projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.linuxfromscratch.org/"&gt;http://www.linuxfromscratch.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Hulu Desktop on Linux&lt;/h2&gt;
+&lt;p&gt;Rob demonstrated the Hulu Desktop, which is available for Fedora and
+Ubuntu.&lt;/p&gt;
+&lt;p&gt;Although it uses the Adobe Flash web browser extension, Rob likes the
+Hulu Desktop because it does not become bloated.&lt;/p&gt;
+&lt;p&gt;The application allows the user to stop playback in the middle of shows.
+The next time Hulu Desktop is run, it plays one commercial and then
+resumes playback from the stopping point.&lt;/p&gt;
+&lt;p&gt;The user can subscribe to shows, and Hulu Desktop will add new episodes
+to the user's queue as they become available.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.hulu.com/labs/hulu-desktop-linux"&gt;http://www.hulu.com/labs/hulu-desktop-linux&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Live CD Issues&lt;/h2&gt;
+&lt;p&gt;Glenn showed how to access a computer's BIOS and change the drive boot
+order, if the machine won't automatically boot from a live CD.&lt;/p&gt;
+&lt;h2&gt;Attendance&lt;/h2&gt;
+&lt;p&gt;Seven people attended the main meeting, including one new member who has
+joined the mailing list.&lt;/p&gt;
+&lt;h2&gt;April Meeting&lt;/h2&gt;
+&lt;p&gt;The SLUG will meet at 6:30pm on &lt;a href="Meetings:2010-04-15" title="wikilink"&gt;Thursday, April
+15&lt;/a&gt;, at the Siouxland Libraries Oak View
+Branch in Room 3. The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;Alex Dean will present April's topic: High Availability tools for Linux.&lt;/p&gt;
+&lt;p&gt;The SLUG is still looking for a 5- to 10-minute demonstration for
+April's meeting. To volunteer, contact Glenn.&lt;/p&gt;
+&lt;p&gt;Free Linux live CDs will be available for folks who want to try Linux
+for the first time.&lt;/p&gt;
+&lt;h2&gt;May topic&lt;/h2&gt;
+&lt;p&gt;VoIP&lt;/p&gt;
+&lt;h2&gt;Future topics&lt;/h2&gt;
+&lt;p&gt;Video streaming, general help session, FreeNAS, picnic or pizza party.&lt;/p&gt;</summary><category term="linux from scratch"></category><category term="distros"></category><category term="ha"></category><category term="voip"></category></entry><entry><title>Minutes 2010-02-18</title><link href="http://sluglinux.org/minutes/2010-02-18.html" rel="alternate"></link><updated>2010-02-18T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-02-18:minutes/2010-02-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Siouxland Libraries Ronning Branch near 49th and Southeastern at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;The room will open at 6pm for setup.&lt;/p&gt;
+&lt;p&gt;A few business items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Program ideas for upcoming meetings&lt;/li&gt;
+&lt;li&gt;Scouting a permanent meeting location&lt;/li&gt;
+&lt;li&gt;Places that may be willing to display meeting posters?&lt;/li&gt;
+&lt;li&gt;Other business items the group wants to discuss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Presentations on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Security testing / Firewall testing&lt;/li&gt;
+&lt;li&gt;Hulu on Linux Demo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Conclude with an open discussion period.&lt;/p&gt;
+&lt;p&gt;The library closes at 9pm&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The meeting started with advice to a Microsoft Windows user who was
+attending after her machine had been infected by a Windows virus for the
+second time.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;She was encouraged to try a Linux live CD on her machine, as a way of
+trying Linux without committing to an installation. The group was
+enthusiastic about Linux, but advised her that it may not be a solution
+for her if she is interested in running proprietary-only software, such
+as iTunes.&lt;/p&gt;
+&lt;h2&gt;Program Topics&lt;/h2&gt;
+&lt;p&gt;The group expressed interest in Alex's offer to present a program on
+high-availability tools and/or network monitoring tools. Glenn will
+contact Alex about the program.&lt;/p&gt;
+&lt;p&gt;The group also showed an interest in VoIP on Linux.&lt;/p&gt;
+&lt;h2&gt;Meeting Places&lt;/h2&gt;
+&lt;p&gt;Glenn reported that the Ronning Branch meeting room may not be an ideal
+place for the SLUG to meet regularly: The library reserves the right to
+preempt the SLUG meetings if the space is needed for a library-sponsored
+event or group.&lt;/p&gt;
+&lt;p&gt;The SLUG discussed other meeting venues, including restaurants with
+meeting rooms and a private conference room. Jerry and Glenn will
+explore these options and report at the March meeting.&lt;/p&gt;
+&lt;h3&gt;Publicity&lt;/h3&gt;
+&lt;p&gt;The group offered a list of places where meeting posters and SLUG
+brochures could be placed. Glenn will incorporate at least some of the
+locations in future publicity efforts.&lt;/p&gt;
+&lt;h2&gt;Security Testing&lt;/h2&gt;
+&lt;p&gt;Jerry gave an extensive tour of the Linux-based &lt;a href="http://www.untangle.com/"&gt;Untangle
+Firewall&lt;/a&gt;, and led discussion about firewalls
+and security settings.&lt;/p&gt;
+&lt;p&gt;The group had a sometimes-spirited discussion about &lt;a href="https://www.grc.com/x/ne.dll?bh0bkyd2"&gt;GRC's
+ShieldsUP&lt;/a&gt; website and the
+significance of its pass/fail ratings.&lt;/p&gt;
+&lt;p&gt;The meeting time ran out before Rob could give his Hulu on Linux demo.&lt;/p&gt;
+&lt;p&gt;Eleven people attended the meeting. One mailing list member stopped in
+before the meeting, but had to leave due to a scheduling conflict.&lt;/p&gt;
+&lt;h2&gt;March Meeting&lt;/h2&gt;
+&lt;p&gt;The SLUG will meet again at 6:30pm on &lt;a href="Meetings:2010-03-18" title="wikilink"&gt;Thursday, Mar.
+18&lt;/a&gt;, at the Siouxland Libraries - Oak
+View Branch in northeast Sioux Falls. The meeting room will open at 6pm
+The Oak View Branch is located at 3700 E. Third St., near the
+intersection of Third Street and North Bahnson Avenue.&lt;/p&gt;
+&lt;p&gt;March's topic -- Linux From Scratch demonstration&lt;/p&gt;
+&lt;p&gt;Anyone interested in presenting a short (5- to 10-minute) talk and
+demonstration in March should contact Glenn.&lt;/p&gt;
+&lt;p&gt;We plan to have free Linux live CDs for anyone interested in trying a
+new distribution or in trying Linux for the first time.&lt;/p&gt;
+&lt;h2&gt;Future topics&lt;/h2&gt;
+&lt;p&gt;VoIP, high-availability tools, video streaming, vendor presentations,
+general help session.&lt;/p&gt;</summary><category term="security"></category><category term="firewall"></category><category term="advocacy"></category></entry><entry><title>Minutes 2010-01-21</title><link href="http://sluglinux.org/minutes/2010-01-21.html" rel="alternate"></link><updated>2010-01-21T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2010-01-21:minutes/2010-01-21.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;The Pizza Ranch on 41st St. at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Prepared by Glenn&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Ten people gathered for an informal meeting to determine the current
+level of interest in open source software and the Siouxland Linux Users
+Group.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Attendees shared information about the Linux distributions they run and
+discussed troubles compiling Linux from Scratch version 6.5.&lt;/p&gt;
+&lt;p&gt;Favorite web browsers, file system troubles, favorite meta search sites,
+search techniques, and Richard Stallman were also topics of a
+wide-ranging conversation.&lt;/p&gt;
+&lt;p&gt;The group discussed future meeting times and locations, and the
+importance of being consistent, once a schedule and workable location
+have been established.&lt;/p&gt;
+&lt;p&gt;The SLUG will meet again at &lt;a href="Meetings:2010-02-18" title="wikilink"&gt;6:30 p.m. on Thursday, Feb.
+18&lt;/a&gt;, at the Siouxland Libraries Ronning
+Branch in southeast Sioux Falls. The meeting room will open at 6 p.m.&lt;/p&gt;
+&lt;p&gt;February's topic -- Security Testing / Firewall Testing&lt;/p&gt;
+&lt;p&gt;There will be a short Hulu on Linux demonstration.&lt;/p&gt;
+&lt;p&gt;The group will also have free live CDs available for anyone interested
+in trying a new distribution or in trying Linux for the first time.&lt;/p&gt;
+&lt;p&gt;March's topic -- Linux from Scratch demonstration.&lt;/p&gt;
+&lt;p&gt;Future topics -- Video streaming, vendor presentations, general help
+session, newbie night.&lt;/p&gt;</summary><category term="linux from scratch"></category><category term="distros"></category></entry><entry><title>Minutes 2009-02-26</title><link href="http://sluglinux.org/minutes/2009-02-26.html" rel="alternate"></link><updated>2009-02-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2009-02-26:minutes/2009-02-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Globe University at 6:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speakers: Steve
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Discussed the future of SLUG at Globe University&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make Fliers&lt;/li&gt;
+&lt;li&gt;Make a map and directions page for the website&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Steve demonstrated installing &lt;a href="http://www.pfsense.org/"&gt;pfSense&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discussed its relationship with &lt;a href="http://m0n0.ch/wall/"&gt;m0n0wall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Benefits of its package management system&lt;/li&gt;
+&lt;li&gt;Power of BSDs packet filtering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Discussed how we can help GNU/Linux newcomers and future meeting
+    ideas.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Writing computer programs&lt;/li&gt;
+&lt;li&gt;Bringing new people to the meetings&lt;/li&gt;
+&lt;li&gt;Possibly working with a rights group at Augie for a presentation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Discussed improvements to the website.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Making changes to reflect current meeting information&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="advocacy"></category><category term="bsd"></category><category term="packet filtering"></category><category term="package management"></category><category term="programming"></category><category term="website"></category></entry><entry><title>Minutes 2008-11-26</title><link href="http://sluglinux.org/minutes/2008-11-26.html" rel="alternate"></link><updated>2008-11-26T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2008-11-26:minutes/2008-11-26.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Pizza Ranch on 41st at 7:00pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Informal meeting
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The usual crowd showed up. Another very informal meeting.&lt;/li&gt;
+&lt;li&gt;Steve handed out some comic books that were sent to us by Jeremiah
+    Gray. They were GNU/Linux and Ubuntu related and geared towards
+    teaching new people about GNU/Linux and Ubuntu. These are new and
+    Jeremiah wanted us to give him feedback.&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.hackettandbankwell.com/"&gt;Hackett and Bankwell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We talked a little bit about the mailing list going down and our
+    move to the google groups list.&lt;/li&gt;
+&lt;li&gt;Discussed the direction we wanted to go in the future. Such as what
+    do we want to accomplish with SLUG. What presentations we should do
+    and where we should do them. How to get the word out and other
+    potential meeting locations.&lt;/li&gt;
+&lt;li&gt;And of course various chit chat about VPNs, Asterisk, WiFi, and
+    other fun things.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="mailing list"></category><category term="vpn"></category><category term="asterisk"></category><category term="wifi"></category><category term="comics"></category></entry><entry><title>Minutes 2007-10-18</title><link href="http://sluglinux.org/minutes/2007-10-18.html" rel="alternate"></link><updated>2007-10-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-10-18:minutes/2007-10-18.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Colorado Technical University, room 172 at 5:30pm&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Hey, you're the goto exerpt. Thanks for hanging out here.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary></entry><entry><title>Minutes 2007-09-20</title><link href="http://sluglinux.org/minutes/2007-09-20.html" rel="alternate"></link><updated>2007-09-20T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2007-09-20:minutes/2007-09-20.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Deep thinking - adds a new diemnison to it all.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;p&gt;Note taker: phliver&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;opello's soekris router&lt;ul&gt;
+&lt;li&gt;CF card for data storage.&lt;/li&gt;
+&lt;li&gt;Updated via web interface.&lt;/li&gt;
+&lt;li&gt;Runs m0n0wall&lt;/li&gt;
+&lt;li&gt;Soekris hardware&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MythTV&lt;ul&gt;
+&lt;li&gt;No more zap2it labs, moving to Schedules Direct&lt;/li&gt;
+&lt;li&gt;Schedules Direct used to cost \$15 for 90 days, now \$15 for 6
+   months. More price drops planned in the future.&lt;/li&gt;
+&lt;li&gt;Schedules Direct is a non profit created by the community. Makes
+   it a little easier to justify paying for the service.&lt;/li&gt;
+&lt;li&gt;Flash player built in to the MythTV web interface can be found
+   in subversion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ubuntu&lt;ul&gt;
+&lt;li&gt;Next version, Gutsy Gibbon (7.10) Blueprints&lt;/li&gt;
+&lt;li&gt;Release date planned for the 18th of October, 2007&lt;/li&gt;
+&lt;li&gt;After Gutsy Gibbon will be the Hardy Herring LTS release (8.04)&lt;/li&gt;
+&lt;li&gt;Phliver will order CDs through ShipIt when Gutsy Gibbon becomes
+   available. This way we will get stickers too.&lt;/li&gt;
+&lt;li&gt;Discussed BulletProof-X (screenshots).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SLUG&lt;ul&gt;
+&lt;li&gt;Advertise with the SLUG flyer.&lt;/li&gt;
+&lt;li&gt;Talked about printing a few copies of Full Circle Magazine to
+   pass around at future meetings. We will start posting new
+   releases on our website.&lt;/li&gt;
+&lt;li&gt;We would like to buy some of these Ubuntu logo decals to pass
+   out/sell.&lt;/li&gt;
+&lt;li&gt;A few of us are going to look into pricing for other Ubuntu/SLUG
+   related stickers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Misc.&lt;ul&gt;
+&lt;li&gt;Briefly discussed Buffalo routers and Wireless Distribution
+   System, Which is supported by dd-wrt and the like.&lt;/li&gt;
+&lt;li&gt;O'Reilly books for doing reviews.&lt;/li&gt;
+&lt;li&gt;Future presentation ideas. We will videotape these for the
+   website.&lt;/li&gt;
+&lt;li&gt;Jeff showed off his "Linux stamp" prototype (&lt;a href="http://opencircuits.com/Linuxstamp"&gt;project
+   page&lt;/a&gt;), and showed videos of
+   the process (posted soon).&lt;/li&gt;
+&lt;li&gt;Dusty peeled the windows sticker off of his notebook :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="storage"></category><category term="m0n0wall"></category><category term="mythtv"></category><category term="soekris"></category><category term="ubuntu"></category><category term="distros"></category><category term="advocacy"></category><category term="wifi"></category></entry><entry><title>Minutes 2006-01-19</title><link href="http://sluglinux.org/minutes/2006-01-19.html" rel="alternate"></link><updated>2006-01-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2006-01-19:minutes/2006-01-19.html</id><summary type="html">&lt;p&gt;This meeting was at the Main Branch of the Siouxland Libraries.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Yesterday's meeting was good. Brandon Morris performed a presentation on
+OpenWRT. Some of the things covered and demonstrated were:
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Installation&lt;/li&gt;
+&lt;li&gt;NVRam&lt;/li&gt;
+&lt;li&gt;ipkg&lt;/li&gt;
+&lt;li&gt;Bridging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have made the &lt;a href="Media:Meetings-2006-01-19-Openwrt.odp" title="wikilink"&gt;openwrt presentation
+file&lt;/a&gt; available.&lt;/p&gt;
+&lt;p&gt;Also, I highly recommend you &lt;a href="http://downloads.openwrt.org/whiterussian/"&gt;download your latest firmware from
+openwrt.org&lt;/a&gt;. We used
+&lt;a href="Media:Meetings-2006-01-19-openwrt-wrt54g-squashfs.bin" title="wikilink"&gt;openwrt-wrt54g-squashfs.bin&lt;/a&gt;.&lt;/p&gt;</summary><category term="ipkg"></category><category term="networking"></category><category term="openwrt"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-11-19</title><link href="http://sluglinux.org/minutes/2004-11-19.html" rel="alternate"></link><updated>2004-11-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-11-19:minutes/2004-11-19.html</id><summary type="html">&lt;h1&gt;Location&lt;/h1&gt;
+&lt;p&gt;Colorado Technical University&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Brandon (solarce) presented Firefox and Firefox extensions
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h1&gt;Minutes&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Firefox 1.0 Released November 8&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.extensionsmirror.nl/"&gt;http://www.extensionsmirror.nl/&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;comprehensive list of Firefox extensions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;AdBlock&lt;ul&gt;
+&lt;li&gt;Brandon demonstrates using wildcards to filter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Download tweak&lt;/li&gt;
+&lt;li&gt;del.icio.us&lt;ul&gt;
+&lt;li&gt;del.icio.us extension&lt;/li&gt;
+&lt;li&gt;del.icio.us/tag/lug&lt;/li&gt;
+&lt;li&gt;Foxylicious (import del.icio.us bookmarks)&lt;/li&gt;
+&lt;li&gt;Getting things done with Flashblock&lt;ul&gt;
+&lt;li&gt;Puts a play button in place of flash content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Keyconfig&lt;ul&gt;
+&lt;li&gt;Remap keybindings for Firefox&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Session Saver&lt;ul&gt;
+&lt;li&gt;Restores your session on crash/shutdown. Configurable&lt;/li&gt;
+&lt;li&gt;Saves default sessions. Morning routine etc.&lt;/li&gt;
+&lt;li&gt;Conflicts with tabbrowser extensions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Single Window&lt;ul&gt;
+&lt;li&gt;Force links to open in a new tab or single window.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Launchy&lt;ul&gt;
+&lt;li&gt;Helps find helper applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web Developer&lt;ul&gt;
+&lt;li&gt;Lots of web development tools in a new bar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;about:config&gt;&lt;ul&gt;
+&lt;li&gt;More config options&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Worried about giving away your email address to register?
+    Mailinator.com&lt;/li&gt;
+&lt;li&gt;Dan (opello) X.org composites&lt;ul&gt;
+&lt;li&gt;Shows off fading windows and true transparency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;X.org compositing&lt;/h2&gt;
+&lt;p&gt;Command to turn everything on&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;xcompmgr -cCfF -r7 -o.65 -l-10 -t-8 -D7&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Xorg.conf&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Section "Extentions"&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Option "Composite" "Enable"&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Option "RENDER" "Enable"&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;EndSection&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;For NVIDIA cards, add this option in your "Device Section":&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Section "Device"&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;Option "RenderAccel" "true"&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;EndSection&lt;/code&gt;&lt;/p&gt;</summary><category term="firefox"></category><category term="extentions"></category><category term="xorg"></category></entry><entry><title>Minutes 2004-06-18</title><link href="http://sluglinux.org/minutes/2004-06-18.html" rel="alternate"></link><updated>2004-06-18T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-06-18:minutes/2004-06-18.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;Speakers: None&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Some People Attended&lt;/li&gt;
+&lt;li&gt;Robby was not here to give his presentation.&lt;/li&gt;
+&lt;li&gt;Steve, Ben, and I hauled in some computers...&lt;ul&gt;
+&lt;li&gt;We couldn't get BSD/Mosix working in time, but hope to for next month.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[Insert Name] brought in a box of old Intersil WaveLan White and
+    Bronze cards, which most attendees grabbed (and some were donated to
+    CTU students).&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="presentation"></category><category term="wifi"></category></entry><entry><title>Minutes 2004-05-21</title><link href="http://sluglinux.org/minutes/2004-05-21.html" rel="alternate"></link><updated>2004-05-21T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-05-21:minutes/2004-05-21.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Location: Colorado Technical University, room 139(?) at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;Speakers: None&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11 People Attended&lt;/li&gt;
+&lt;li&gt;Robby was not here to give his presentation.&lt;/li&gt;
+&lt;li&gt;Smalltalk ensues...&lt;/li&gt;
+&lt;li&gt;SLUG Recommends: BTTV chipsets for TV Tuner Cards, and MythTV for recording and managing shows.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="presentation"></category><category term="mythtv"></category></entry><entry><title>Minutes 2004-03-19</title><link href="http://sluglinux.org/minutes/2004-03-19.html" rel="alternate"></link><updated>2004-03-19T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-03-19:minutes/2004-03-19.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 135 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speaker: C.J. Steele
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Security Beyond the Firewall&lt;/li&gt;
+&lt;li&gt;Backups&lt;/li&gt;
+&lt;li&gt;Service Limiting&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bastille-linux.sourceforge.net/"&gt;Bastille Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://grsecurity.net/"&gt;grsecurity&lt;/a&gt; /
+    &lt;a href="http://pax.grsecurity.net/docs/"&gt;PaX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IDS&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ee.lbl.gov/"&gt;arpwatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.logwatch.org/"&gt;logwatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.snort.org/"&gt;snort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;process monitoring&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mmonit.com/monit/"&gt;monit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://netsaint.sourceforge.net/"&gt;netsaint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;integrity checking&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sourceforge.net/projects/tripwire/"&gt;tripwire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;layer 7 packet filtering&lt;/li&gt;
+&lt;li&gt;simple firewall script overview&lt;/li&gt;
+&lt;li&gt;also for individual machines, not just a dedicated firewall&lt;/li&gt;
+&lt;li&gt;port knocking [&lt;a href="http://www.zeroflux.org/projects/knock"&gt;knockd&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="security"></category><category term="firewall"></category><category term="backups"></category><category term="distros"></category><category term="logwatch"></category><category term="snort"></category><category term="monit"></category><category term="netsaint"></category><category term="tripwire"></category><category term="packet filtering"></category><category term="port knocking"></category></entry><entry><title>Minutes 2004-02-27</title><link href="http://sluglinux.org/minutes/2004-02-27.html" rel="alternate"></link><updated>2004-02-27T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-02-27:minutes/2004-02-27.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Colorado Technical University, room 134 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Speaker: Robby, Packet Shaping
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;25 people attended, many were on their first visit to SLUG!&lt;/li&gt;
+&lt;li&gt;30 Minutes of Anticipation ...&lt;ul&gt;
+&lt;li&gt;What's your linux experience? ranged from total neophyte to 10 years of experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentation: Packet Shaping &lt;a href="http://lartc.org/lartc.html"&gt;http://lartc.org/lartc.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;basic filtering can also be done with
+        &lt;a href="http://www.netfilter.org/projects/iptables/index.html"&gt;IPTables&lt;/a&gt;
+        and marking packets&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://leaf.sourceforge.net/"&gt;leaf&lt;/a&gt;,
+        &lt;a href="http://m0n0.ch/wall/"&gt;m0n0wall&lt;/a&gt;, and
+        &lt;a href="http://www.smoothwall.org/"&gt;smoothwall&lt;/a&gt; are firewall
+        distributions
+        *   leaf and m0n0wall have traffic shaping capabilities&lt;/li&gt;
+&lt;li&gt;We had time left over and Dan
+    &lt;a href="http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&amp;amp;chap=1"&gt;emerged&lt;/a&gt;
+    &lt;a href="http://www.gnucash.org/"&gt;GNUCash&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="packet shaping"></category><category term="presentation"></category><category term="m0n0wall"></category><category term="gentoo"></category><category term="distros"></category></entry><entry><title>Minutes 2004-01-30</title><link href="http://sluglinux.org/minutes/2004-01-30.html" rel="alternate"></link><updated>2004-01-30T00:00:00-06:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2004-01-30:minutes/2004-01-30.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;Date: January 30, 2004 at 5:30pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Organizational Meeting
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Note taker: opello&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date and time of the meetings.&lt;/li&gt;
+&lt;li&gt;Friday seems to work out.&lt;/li&gt;
+&lt;li&gt;Mailing list&lt;/li&gt;
+&lt;li&gt;Going to a discussions + announcements mailing list&lt;/li&gt;
+&lt;li&gt;Tips and tricks section archived from discussion mailing list showing 'our best tricks'&lt;/li&gt;
+&lt;li&gt;Meeting room&lt;/li&gt;
+&lt;li&gt;We are shooting for a public place, and at little or no cost.&lt;/li&gt;
+&lt;li&gt;To be coordinated over the mailing list&lt;/li&gt;
+&lt;li&gt;Install Fest&lt;/li&gt;
+&lt;li&gt;An install fest might be a good idea.&lt;/li&gt;
+&lt;li&gt;We decided we should pick a specific distro and stick to it to create less confusion.&lt;ul&gt;
+&lt;li&gt;Pick a date&lt;/li&gt;
+&lt;li&gt;Find a place with enough room&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentations&lt;/li&gt;
+&lt;li&gt;next month - vector doing ip / firewall / tunnels / security&lt;/li&gt;
+&lt;li&gt;Book Reviews&lt;/li&gt;
+&lt;li&gt;Introduce and view a sample of the book reviews&lt;/li&gt;
+&lt;li&gt;Deciding whether to do a library type concept and check out books, or have drawings for them. looks like we are leaning towards a library idea?&lt;/li&gt;
+&lt;li&gt;Let us know if your willing to do a book review.&lt;/li&gt;
+&lt;li&gt;Shirts, Hoodies, Stickers, Case badges&lt;/li&gt;
+&lt;li&gt;Looking around for prices&lt;/li&gt;
+&lt;li&gt;Nixon, resident graphics guy, playing around with logos and layouts.&lt;ul&gt;
+&lt;li&gt;slogan contest / submit ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SLUG Officers&lt;/li&gt;
+&lt;li&gt;Need slightly more formal system of governing SLUG&lt;ul&gt;
+&lt;li&gt;Executive committee to deal with things and be responsible&lt;/li&gt;
+&lt;li&gt;Treasurer&lt;/li&gt;
+&lt;li&gt;Chairperson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Various topics of discussion include:&lt;/li&gt;
+&lt;li&gt;embedded Linux&lt;/li&gt;
+&lt;li&gt;plausible denyability encryption&lt;/li&gt;
+&lt;li&gt;various bouts of awkward silence&lt;/li&gt;
+&lt;li&gt;voluntary dues&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Install fest"></category><category term="encryption"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-10-24</title><link href="http://sluglinux.org/minutes/2003-10-24.html" rel="alternate"></link><updated>2003-10-24T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-10-24:minutes/2003-10-24.html</id><summary type="html">&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;New Horizons at 5:30 pm&lt;/p&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Topic: Mandrake 9.2 demonstration Speakers: pez4brian
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;Discussion: Started on the last install step of Mandrake 9.2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advantages Graphical install&lt;/li&gt;
+&lt;li&gt;Network&lt;/li&gt;
+&lt;li&gt;Auto Detection and Expert Mode&lt;/li&gt;
+&lt;li&gt;Control Center&lt;/li&gt;
+&lt;li&gt;Hard Drake to show hardware&lt;/li&gt;
+&lt;li&gt;Samba and Apache Config tools&lt;/li&gt;
+&lt;li&gt;Boot graphics&lt;/li&gt;
+&lt;li&gt;splash screen with progress bar&lt;/li&gt;
+&lt;li&gt;How do you get rid of? Was the major question&lt;/li&gt;
+&lt;li&gt;Install of programs&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dependency checking for RPM installs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Disadvantages Mandrake specific RPM package naming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;this makes it difficult to use third party RPM to satisfy dependencies&lt;/li&gt;
+&lt;li&gt;Questions: How to get rid of splash screen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Book&lt;/h2&gt;
+&lt;p&gt;Linux Server Hacks book was raffled&lt;/p&gt;
+&lt;h2&gt;LAN Party&lt;/h2&gt;
+&lt;p&gt;Started at 6:30 pm&lt;/p&gt;
+&lt;p&gt;Games&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quake III&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="networking"></category><category term="samba"></category><category term="graphics"></category><category term="package management"></category><category term="lan party"></category><category term="mandrake"></category></entry><entry><title>Minutes 2003-09-26</title><link href="http://sluglinux.org/minutes/2003-09-26.html" rel="alternate"></link><updated>2003-09-26T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-09-26:minutes/2003-09-26.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;This was our first SLUG/ LAN meeting and was a learning experience. We
+had a new show, however with confusion and time I was unable to get any
+information about him.&lt;/p&gt;
+&lt;p&gt;Tried to work with an &lt;a href="http://www.ipcop.org/"&gt;IPCOP&lt;/a&gt; box and did not get
+too far with that as the person who knew what was going on with it was
+unable to come.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;The biggest outcome of this meeting was learning that we need more of an
+agenda and structure to run the meetings and get the most information in
+the least time. This is all getting worked on to make improvements on
+the meetings.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;The next meeting will hopefully have a presentation of some sort
+followed by a LAN party. As trying to do both did not work out as we
+wanted. So gear up and suggest some ideas for a presentation for the
+next meeting.&lt;/p&gt;
+&lt;p&gt;Side note the next meeting will be held on Fri October
+24th 2003 due to the last Friday being Halloween!&lt;/p&gt;</summary><category term="lan party"></category><category term="ipcop"></category><category term="distros"></category><category term="organizational"></category></entry><entry><title>Minutes 2003-07-05</title><link href="http://sluglinux.org/minutes/2003-07-05.html" rel="alternate"></link><updated>2003-07-05T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-07-05:minutes/2003-07-05.html</id><summary type="html">&lt;h2&gt;Minutes&lt;/h2&gt;
+&lt;p&gt;So due to lack of time sorry it took so long---&lt;/p&gt;
+&lt;p&gt;Attendees:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;phliver&lt;/li&gt;
+&lt;li&gt;opello&lt;/li&gt;
+&lt;li&gt;Mikey&lt;/li&gt;
+&lt;li&gt;Vector&lt;/li&gt;
+&lt;li&gt;Pez4brian&lt;/li&gt;
+&lt;li&gt;Cassie&lt;/li&gt;
+&lt;li&gt;But3rfly&lt;/li&gt;
+&lt;li&gt;Terry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;Brian brought in his linux box with mandrake on it. However, did not get
+much discussion on it. Please message me with the specs so we can go
+over it an the next meeting.&lt;/p&gt;
+&lt;p&gt;Install of 2.6 Kernel on But3rfly's machine to see if it would fix the
+sound issues&lt;/p&gt;
+&lt;p&gt;Some talk about dependency hell... a vote for possible new meeting
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;Last but not least! Phliver bring da switch next time!&lt;/p&gt;</summary><category term="distros"></category><category term="audio"></category></entry><entry><title>Minutes 2003-06-30</title><link href="http://sluglinux.org/minutes/2003-06-30.html" rel="alternate"></link><updated>2003-06-30T00:00:00-05:00</updated><author><name>stevenix</name></author><id>tag:sluglinux.org,2003-06-30:minutes/2003-06-30.html</id><summary type="html">&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;We had a good meeting! Monday may be a possibility for future meetings
+as it seems to work out for most of us.&lt;/p&gt;
+&lt;p&gt;We set up &lt;a href="http://synergy2.sourceforge.net/"&gt;synergy&lt;/a&gt; on two linux
+machines and found that it was WAY too easy, it didn't take long at all.&lt;/p&gt;
+&lt;p&gt;Discussed the current status of the website and the sluglinux.org
+domain. Talked about a few distros, gentoo and mandrake in particular.
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;</summary><category term="synergy"></category><category term="website"></category><category term="distros"></category></entry></feed>
