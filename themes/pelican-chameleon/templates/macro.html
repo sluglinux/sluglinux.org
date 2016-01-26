@@ -220,14 +220,14 @@
 {% macro article_info(article) %}
   <span id="article_info">
     <a class="label label-primary" 
-      href="{{ genurl( '/category/' + article.category|string + '.html') }}">
+      href="{{ genurl( '/category/' + article.category.slug + '.html') }}">
       {{- article.category -}}
     </a>
     {% if article.tags %}
       <b> · </b>
       {% for tag in article.tags %}
         <a class="label label-primary" 
-          href="{{ genurl( '/tag/' + tag|string + '.html' ) }}">
+          href="{{ genurl( '/tag/' + tag.slug + '.html' ) }}">
           {{- tag -}}
         </a>
       {% endfor %}
@@ -261,7 +261,7 @@
 {% macro taglist(list,prefix='',suffix='') %}
   {% for tag, articles in list|sort %}
     <a class="label label-primary" 
-      href="{{prefix}}{{tag}}{{suffix}}">
+      href="{{prefix}}{{tag.slug}}{{suffix}}">
       {{- tag }} {{ articles|count }}</a>
   {% endfor %}
 {% endmacro %}
