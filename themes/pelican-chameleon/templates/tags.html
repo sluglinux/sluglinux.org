@@ -15,7 +15,7 @@
       {% from "macro.html" import article_panel_list with context %}
       {% set parent = "accordion" %}
       {% set id = tag.slug %}
-      {% set title_left = tag.slug %}
+      {% set title_left = tag %}
       {% set title_left_link = "/tag/%s.html" % (tag.slug) %}
       {% set title_right = articles|count %}
       {% set entry_list = articles %}
