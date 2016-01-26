@@ -1,5 +1,7 @@
 output/
 cache/
+build/
+env/
 fabfile.py
 *.pyc
 *.pid
