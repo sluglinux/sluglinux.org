@@ -14,6 +14,12 @@ Generate static page and serve locally
   * $ make serve
   * visit localhost:8000
 
-Generate production html and upload
+Generate production html and save changes in git
   * $ make publish
-  * $ make rsync_upload
+  * $ git status # view files that have been changed
+  * $ git add <file that you changed or added>
+  * $ git commit -m "commit message"
+  * $ git push"
+  * $ upload output to sluglinux.github.io repo somehow (to be updated)
+  
+
