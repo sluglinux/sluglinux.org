@@ -17,6 +17,7 @@ PATH = 'content'
 TIMEZONE = 'America/Chicago'
 DEFAULT_DATE_FORMAT = '%b %d %Y'
 
+DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = (True)
 STATIC_PATHS = (['images', 'extra/favicon.ico', 'extra/robots.txt'])
 FAVICON = u'/extra/favicon.ico'
