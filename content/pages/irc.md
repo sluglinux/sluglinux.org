@@ -3,7 +3,6 @@ Category: IRC
 Slug: IRC
 Authors: stevenix
 
-* irc.freenode.net
-* \#sluglinux
-
-IRC stands for Internet Relay Chat. With IRC you can chat with SLUG members about anything. Often we will be idle but certain times during the day you will catch some live discussions. If you want to join the chat room using your web browser use [freenode's webchat page](http://webchat.freenode.net/?channels=%23sluglinux). 
+* \#sluglinux on irc.freenode.net
+* connect using [webchat](http://webchat.freenode.net/?channels=%23sluglinux&uio=d4)
+* [stats](https://mooncitylabs.org/ircstats/sluglinux.html) updated 4x daily.
