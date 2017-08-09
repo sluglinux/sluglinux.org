@@ -10,9 +10,9 @@ Create your virtual environment
   * $ pip install Fabric
 
 Make your changes
-  * cp 2017-01-18.md 2017-03-15.md
-  * nano 2017-03-15.md
-  
+  * cp content/news/2017-01-18.md content/news/2017-08-08.md
+  * nano content/news/2017-08-08.md
+
 Test changes by generating the static site and serving it locally
   * $ make html
   * $ make serve
