@@ -1,4 +1,4 @@
-Clone the repo. Enter directory.
+Clone the repo and enter directory
   * $ git clone https://github.com/sluglinux/sluglinux.org.git
   * $ cd sluglinux.org
   
@@ -10,8 +10,8 @@ Create your virtual environment
   * $ pip install Fabric
 
 Make your changes
-  * cp content/news/2017-01-18.md content/news/2017-08-08.md
-  * nano content/news/2017-08-08.md
+  * cp content/minutes/2017-07-19.md content/minutes/2017-09-20.md
+  * nano content/minutes/2017-09-20.md
 
 Test changes by generating the static site and serving it locally
   * $ make html
@@ -21,7 +21,16 @@ Test changes by generating the static site and serving it locally
 Generate production html and save changes in git
   * $ make publish
   * $ git status # view files that have been changed
-  * $ git add <file that you changed or added>
-  * $ git commit -m "commit message"
+  * $ git add \<file that you changed or added\>
+  * $ git commit -m "added the minutes for the 2017-09-20 meeting."
   * $ git push"
-  * $ upload output to sluglinux.github.io repo somehow (to be updated)
+
+Get the changes into the sluglinus.github.io repo
+  * $ cd ../
+  * $ git clone https://github.com/sluglinux/sluglinux.github.io.git
+  * $ cp -r ./sluglinux.org/output/* ./sluglinux.github.io/
+  * $ cd sluglinux.github.io
+  * $ git status # view files that have been changed
+  * $ git add .
+  * $ git commit -m "Deploy site from the Pelican repository"
+  * $ git push"
