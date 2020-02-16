@@ -23,9 +23,9 @@ Generate production html and save changes in git
   * $ git status # view files that have been changed
   * $ git add \<file that you changed or added\>
   * $ git commit -m "added the minutes for the 2017-09-20 meeting."
-  * $ git push"
+  * $ git push
 
-Get the changes into the sluglinus.github.io repo
+Get the changes into the sluglinux.github.io repo
   * $ cd ../
   * $ git clone https://github.com/sluglinux/sluglinux.github.io.git
   * $ cp -r ./sluglinux.org/output/* ./sluglinux.github.io/
@@ -33,4 +33,4 @@ Get the changes into the sluglinus.github.io repo
   * $ git status # view files that have been changed
   * $ git add .
   * $ git commit -m "Deploy site from the Pelican repository"
-  * $ git push"
+  * $ git push
