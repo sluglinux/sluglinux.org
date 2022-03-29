@@ -9,7 +9,7 @@ invoke==1.5.0
 Jinja2==3.0.1
 Markdown==3.3.4
 MarkupSafe==2.0.1
-paramiko==2.7.2
+paramiko==2.10.1
 pathlib2==2.3.5
 pelican==4.6.0
 pycparser==2.20
