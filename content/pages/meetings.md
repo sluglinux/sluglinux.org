@@ -5,9 +5,11 @@ Authors: stevenix, mrtuttle
 
 Meetings are free for everyone to participate in and are very informal.  Most meetings are just gatherings but sometimes we will have a presentation followed by a Q&A session.  Presentations range from beginners level to technical.
 
-SLUG meetings lately have been held at the [Main Branch of the Siouxland Libraries in Downtown Sioux Falls](https://www.google.com/maps/place/200+N+Dakota+Ave,+Sioux+Falls,+SD+57104/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598bbcea107:0x8588b213cad08e56!8m2!3d43.5492104!4d-96.7289238).
+There are 2 kinds of meetings and they rotate month-to-month.  Meetings generally start at 6:00pm on the third Wednesday of each month.
 
-Meetings generally start at 6:00pm on the third Wednesday of each month.
+The primary meetings are held at the [Main Branch of the Siouxland Libraries in Downtown Sioux Falls](https://www.google.com/maps/place/200+N+Dakota+Ave,+Sioux+Falls,+SD+57104/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598bbcea107:0x8588b213cad08e56!8m2!3d43.5492104!4d-96.7289238).  This is the space for getting everyone in one room and having presentations.  These run from 6pm to 8pm.
+
+The casual meetings are currently being held at the [Full Moon Book Coop](https://www.fullcirclebookcoop.com/).  These meetings are for chatting with other members or getting feedback and help for that upcoming presentation you are working on.  These are from 6pm to 10pm.
 
 Stay tuned to the [mailing list](http://groups.google.com/group/sluglinux) and [IRC channel]({filename}/pages/irc.md) for exact details.
 
@@ -19,6 +21,7 @@ Here is a list of topics for anyone looking for something to do a presentation o
 *  setting up a monitoring system like nagios or zabbix or http://omdistro.org/
 *  a pbx distro like elastix
 *  virtual machines
+*  containers
 *  setting up a python environment
 *  network troubleshooting tools like mtr and wireshark/tcpdump
 *  os troubleshooting tools like strace, ps, top, io monitoring etc.
