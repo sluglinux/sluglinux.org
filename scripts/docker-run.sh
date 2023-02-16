@@ -14,4 +14,4 @@ docker run \
     --publish 35729:35729/tcp \
     --name sluglinux-build \
     sluglinux-build:latest \
-    jekyll serve --destination /tmp/site --watch --host 0.0.0.0 --livereload --incremental
+    bundle exec jekyll serve --destination /tmp/site --watch --host 0.0.0.0 --livereload --incremental
