@@ -5,3 +5,5 @@ env/
 fabfile.py
 *.pyc
 *.pid
+.sass-cache
+.jekyll-metadata
