@@ -1,0 +1,19 @@
+# Site settings
+title: Siouxland Linux Users Group
+email: sluglinux@googlegroups.com
+description: >-
+  The Siouxland Linux Users Group was formed to introduce new ideas,
+  information, and to answer questions that others may have about
+  GNU/Linux. GNU/Linux is free software available to you no matter what
+  "computer level" you are on. Plus, its all Open Source. The meetings are
+  free for all to join, from the newbies to the typical computer geek.
+baseurl: ""
+url: ""
+twitter_username: sluglinux
+github_username: sluglinux
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
