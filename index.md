@@ -1,7 +1,8 @@
+---
+layout: page
 title: Home
-URL:
-save_as: index.html
-Authors: stevenix
+authors: stevenix
+---
 
 Welcome to the Siouxland Linux Users Group website!
 

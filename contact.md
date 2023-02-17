@@ -1,7 +1,7 @@
-Title: Contact
-Category: Contact
-Slug: contact
-Authors: stevenix
+---
+title: Contact
+authors: stevenix
+---
 
 If you are new to GNU/Linux and have any questions, feel free to sign up and
 post on our mailing list. This is also where you will find the most up to date

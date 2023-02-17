@@ -1,7 +1,7 @@
-Title: Meetings
-Category: Meetings
-Slug: meetings
-Authors: stevenix, mrtuttle
+---
+title: Meetings
+authors: stevenix, mrtuttle
+---
 
 Meetings are free for everyone to participate in and are very informal.  Most meetings are just gatherings but sometimes we will have a presentation followed by a Q&A session.  Presentations range from beginners level to technical.
 
