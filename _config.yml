@@ -11,6 +11,7 @@ baseurl: ""
 url: ""
 twitter_username: sluglinux
 github_username: sluglinux
+permalink: /:categories/:year-:month-:day:output_ext
 
 # Build settings
 markdown: kramdown
