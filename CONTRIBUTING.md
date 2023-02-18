@@ -1,7 +1,7 @@
 Clone the repo and enter directory
   * $ git clone https://github.com/sluglinux/sluglinux.org.git
   * $ cd sluglinux.org
-  
+
 Create your virtual environment
   * $ virtualenv env
   * $ source env/bin/activate
