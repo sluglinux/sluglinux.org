@@ -12,6 +12,10 @@ url: ""
 twitter_username: sluglinux
 github_username: sluglinux
 permalink: /:categories/:year-:month-:day:output_ext
+feed:
+  categories:
+    - minutes
+    - news
 
 # Build settings
 markdown: kramdown
