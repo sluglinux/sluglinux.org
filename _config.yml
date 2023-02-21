@@ -25,7 +25,6 @@ header_pages:
   - archives.md
   - feeds.md
   - contact.md
-  - irc.md
 
 # Build settings
 markdown: kramdown
