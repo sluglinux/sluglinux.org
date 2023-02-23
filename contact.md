@@ -26,3 +26,9 @@ information on our next meeting times, as well as minutes after each meeting.
 
 Please feel free to open issues or pull requests to change this site!
 {% endif %}
+
+{% if site.twitter_username %}
+# Twitter
+
+* [{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+{% endif %}
