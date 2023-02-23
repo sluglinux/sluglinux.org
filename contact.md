@@ -18,3 +18,11 @@ information on our next meeting times, as well as minutes after each meeting.
 
 * \#sluglinux on irc.oftc.net
 * [webchat](http://webchat.oftc.net/?channels=%23sluglinux&uio=d4)
+
+{% if site.github_username %}
+# GitHub
+
+* [{{ site.github_username }}](https://github.com/{{ site.github_username }})
+
+Please feel free to open issues or pull requests to change this site!
+{% endif %}
