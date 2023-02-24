@@ -31,3 +31,25 @@ a:hover {
 .site-title {
   margin-left: 40px;
 }
+
+.post-list {
+  // Clear "vertical rhythm" for the elements of the post list.
+  h1, h2, h3, h4, h5, h6,
+  p, blockquote, pre,
+  ul, ol, dl, figure {
+    margin-bottom: 0px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    // These all being the same size might be a little strange, but it is only
+    // for the "excerpt" view.
+    @include relative-font-size(1.25);
+  }
+
+  .content {
+    @extend %vertical-rhythm;
+
+    border-bottom: 1px solid $grey-color-light;
+    padding-bottom: 5px;
+  }
+}

@@ -3,15 +3,17 @@ layout: default
 title: News
 ---
 
+<div class="post-list">
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+  <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date | date_to_string: "ordinal", "US" }}</span>
+    <span class="post-meta">{{ post.date | date_to_string: "ordinal", "US" }}</span>
   </p>
   <div class="content">
     {{ post.content | markdownify | truncatewords: 50 }}
   </div>
 {% endfor %}
+</div>
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
