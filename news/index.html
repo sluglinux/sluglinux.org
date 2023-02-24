@@ -9,7 +9,7 @@ title: News
     <span class="date">{{ post.date | date_to_string: "ordinal", "US" }}</span>
   </p>
   <div class="content">
-    {{ post.content }}
+    {{ post.content | markdownify | truncatewords: 50 }}
   </div>
 {% endfor %}
 
