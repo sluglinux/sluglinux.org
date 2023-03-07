@@ -8,4 +8,5 @@ RUN gem install github-pages
 
 RUN mkdir -p /tmp/site
 COPY Gemfile /tmp/site
+COPY Gemfile.lock /tmp/site
 RUN cd /tmp/site && bundle install
