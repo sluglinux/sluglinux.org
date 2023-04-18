@@ -3,6 +3,7 @@ cache/
 build/
 env/
 fabfile.py
+*~
 *.pyc
 *.pid
 .sass-cache
