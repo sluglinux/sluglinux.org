@@ -7,7 +7,7 @@ Meetings are free for everyone to participate in and are very informal.  Most me
 
 There are 2 kinds of meetings and they rotate month-to-month.  Meetings generally start at 6:00pm on the third Wednesday of each month.
 
-The primary meetings are held at the [Main Branch of the Siouxland Libraries in Downtown Sioux Falls](https://www.google.com/maps/place/200+N+Dakota+Ave,+Sioux+Falls,+SD+57104/@43.5492104,-96.7311125,17z/data=!3m1!4b1!4m5!3m4!1s0x878eb598bbcea107:0x8588b213cad08e56!8m2!3d43.5492104!4d-96.7289238).  This is the space for getting everyone in one room and having presentations.  These run from 6pm to 8pm.
+The primary meetings are held at the [Main Branch of the Siouxland Libraries in Downtown Sioux Falls](https://www.google.com/maps/place/Siouxland+Libraries+Downtown+Library/@43.5492177,-96.7289395,17z/data=!3m1!4b1!4m6!3m5!1s0x878eb598e9b48597:0xec1554bb68dcb276!8m2!3d43.5492177!4d-96.7289395!16s%2Fg%2F1tg79jvs).  This is the space for getting everyone in one room and having presentations.  These run from 6pm to 8pm.
 
 The casual meetings are currently being held at the [Full Circle Book Coop](https://www.fullcirclebookcoop.com/).  These meetings are for chatting with other members or getting feedback and help for that upcoming presentation you are working on.  These are from 6pm to 10pm.
 
