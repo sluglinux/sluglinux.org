@@ -4,6 +4,8 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
+rm -f Gemfile.lock
+
 docker run \
     --rm \
     --interactive \
@@ -15,3 +17,5 @@ docker run \
     --name sluglinux-build \
     sluglinux-build:latest \
     bundle exec jekyll serve --destination /tmp/site --watch --host 0.0.0.0 --livereload --incremental
+
+rm -f Gemfile.lock
