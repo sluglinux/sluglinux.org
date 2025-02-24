@@ -14,6 +14,10 @@ information on our next meeting times, as well as minutes after each meeting.
 {%- endif %}
 * <https://groups.google.com/group/sluglinux>
 
+You can subscribe to the mailing list by sending an email to
+[sluglinux+subscribe@googlegroups.com](mailto:sluglinux+subscribe@googlegroups.com)
+and then clicking the verification link in the message that is sent back.
+
 # IRC
 
 * \#sluglinux on irc.oftc.net
