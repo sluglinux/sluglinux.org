@@ -7,3 +7,4 @@ fabfile.py
 *.pid
 .sass-cache
 .jekyll-metadata
+Gemfile.lock
